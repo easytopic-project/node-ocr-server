@@ -1,0 +1,11 @@
+
+  version: '3.3'
+  services:
+    node_ocr_server:
+      build: . # Only in development
+      image: maxjf1/node-ocr-server:latest
+      restart: always 
+      ports: 
+        - 3000:3000
+      volumes: 
+        - ./temp:/tmp/ocr

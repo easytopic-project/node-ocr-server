@@ -1,6 +1,12 @@
 {
   "name": "node-ocr-server",
   "version": "0.0.0",
+  "description": "Node OCR microsservice using tesseract",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxjf1/node-ocr-server.git"
+  },
+  "license": "ISC",
   "scripts": {
     "build": "babel src -d dist",
     "dev": "nodemon --exec babel-node src/index.js",
@@ -13,6 +19,7 @@
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "express-fileupload": "^1.1.6",
     "node-tesseract-ocr": "^1.0.0"
   },
   "main": "./dist/index.js",
@@ -22,8 +29,6 @@
     "@babel/node": "^7.7.7",
     "@babel/preset-env": "^7.7.7",
     "eslint": "^5.12.0",
-    "nodemon": "^2.0.1",
-    "prettier": "^1.19.1",
-    "prettier-check": "^2.0.0"
+    "nodemon": "^2.0.1"
   }
 }
