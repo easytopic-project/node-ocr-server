@@ -1,0 +1,2710 @@
+    1  ls
+    2  nano .zshrc
+    3  edit .zshrc
+    4  deepin-editor .zshrc
+    5  alias
+    6  nano .oh-my-zsh
+    7  deepin-editor .zshrc
+    8  git clone https://github.com/powerline/fonts.git
+    9  git clone https://github.com/powerline/fonts.git plf
+   10  cd plf
+   11  ./install.sh
+   12  rm plf
+   13  rm -rf plf
+   14  ls
+   15  cd projetos/wp/events-manager/admin
+   16  git status
+   17  git pull
+   18  nano .zshrc
+   19  nano .bashrc
+   20  nano .zshrc
+   21  nano .bash_aliases
+   22  deepin-editor .bash_aliases
+   23  edit-bash
+   24  edit
+   25  edit .bashrc
+   26  edit-bash
+   27  edit .bashrc
+   28  edit .zshrc
+   29  edit-bash
+   30  cd projetos/wp/events-manager/admin
+   31  edit-bash
+   32  edit-zsh
+   33  edit-bash
+   34  edit-zsh
+   35  exit
+   36  cd projetos/wp/events-manager/admin
+   37  source <(npm completion)\n
+   38  node -v
+   39  nvm
+   40  bash
+   41  cd projetos/wp/events-manager/admin
+   42  nvm -v
+   43  npm run zero40
+   44  git status
+   45  git stash
+   46  npm run deploy
+   47  where zsh
+   48  npm run deploy-dev
+   49  cd projetos/bolsa
+   50  ls
+   51  cd kaldi-docker
+   52  code .
+   53  cd projetos/bolsa
+   54  git clone git@github.com:maxjf1/docker-kaldi-gstreamer-server.git 
+   55  ls
+   56  git clone git@github.com:maxjf1/docker-kaldi-gstreamer-server.git 
+   57  cd docker-kaldi-gstreamer-server
+   58  code .
+   59  docker build \n
+   60  docker build .\n
+   61  ping 192.168.0.150
+   62  ping 192.168.0.155
+   63  ping 192.168.0.150
+   64  ping DESKTOP-7AOQCFJ\t
+   65  edit-bash
+   66  colortest
+   67  bash
+   68  apt install colortest
+   69  sudo apt install colortest
+   70  ls /usr/share/deepin-terminal/theme
+   71  ls /usr/share/deepin-terminal/theme/aci
+   72  cat /usr/share/deepin-terminal/theme/aci
+   73  colortest
+   74  color
+   75  colors
+   76  COLORTERM
+   77  bash
+   78  colortest-16
+   79  colortest-16b
+   80  colortest-256
+   81  colortest-8
+   82  sudo apt purge colortest 
+   83  colortest-16
+   84  ls
+   85  history
+   86  zsh -v
+   87  zsh -V
+   88  zsh --version
+   89  sudo apt update
+   90  sudo apt upgrade
+   91  aBC | aC
+   92  bB
+   93  cd projetos/bolsa
+   94  ls
+   95  cd kaldi-docker
+   96  ls
+   97  cd docker-kaldi-gstreamer-server
+   98  cat Dockerfile
+   99  docker build .
+  100  cd ..
+  101  ls
+  102  cd ..
+  103  ls
+  104  cd docker-kaldi-gstreamer-server
+  105  cat Dockerfile
+  106  docker build .
+  107  htop
+  108  code .
+  109  git status
+  110  git-adc "UPDATE for T2"
+  111  git push
+  112  git-adc "FIX project name"
+  113  git push
+  114  sudo apt-get install trimage\n
+  115  docker container run 2ca708c1c9cc /bin/bash
+  116  docker container run -it 2ca708c1c9cc /bin/bash
+  117  docker container run 2ca708c1c9cc -it /bin/bash
+  118  docker container run -it 2ca708c1c9cc /bin/bash
+  119  docker container start -it ufjf_seguranca /bin/bash
+  120  docker container start ufjf_seguranca 
+  121  docker container attach ufjf_seguranca
+  122  docker exec -it 4ee1dd76d4936cb5317a5a48f116d1231865d779ad8dc8c35fac7b2464d9fdaa /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin/sh"
+  123  docker exec -it ca4a3a430e4aa47cd0b9ecaacb77ebd820465c83888e1c8d170d58678b7850e0 /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin/sh"
+  124  docker container rename angry_swirles ufjf_seguranca
+  125  docker container start ufjf_seguranca
+  126  docker container attach ufjf_seguranca
+  127  edit-bash
+  128  docker container start 
+  129  docker container start --help
+  130  docker run -it ubuntu /bin/bash
+  131  docker container attach ufjf_seguranca
+  132  docker container rename sleepy_wilson ufjf_seg_client
+  133  ip
+  134  ip a show
+  135  ifconfig
+  136  netstat
+  137  docker container start ufjf_seguranca
+  138  docker container start ufjf_seg_client
+  139  docker container attach ufjf_seguranca
+  140  docker container attach ufjf_seg_client
+  141  docker container start ufjf_seguranca lxc.mount.entry = /dev/net/tun dev/net/tun none bind create=file\n
+  142  ping 10.5.17.163
+  143  docker container attach ufjf_seguranca
+  144  scp
+  145  nano static-OpenVPN.key
+  146  scp static-OpenVPN.key rodolpho@10.5.17.163:/tmp
+  147  ping 10.5.17.163
+  148  ping 10.5.17.163:22
+  149  scp static-OpenVPN.key rodolpho@10.5.17.163:/tmp
+  150  scp /home/rodolpho/static-OpenVPN.key rodolpho@10.5.17.163:/tmp
+  151  sudo su\napt install openvpn\n
+  152  sudo apt install openvpn
+  153  ping 172.16.0.1
+  154  ssh 172.16.0.1
+  155  ssh 172.16.0.2
+  156  ping 172.16.0.1
+  157  ssh 172.16.0.2
+  158  ssh 172.16.0.3
+  159  ssh 172.16.0.2
+  160  ssh 172.16.0.3
+  161  ssh 172.16.0.1
+  162  ssh 172.16.0.2
+  163  ping 172.16.0.2
+  164  ping 172.16.0.1
+  165  ip a
+  166  ssh 172.16.0.1
+  167  ssh 172.16.0.1:22
+  168  ping 172.16.0.1:22
+  169  ping 172.16.0.1
+  170  ssh 10.5.17.163
+  171  ping 172.16.0.1
+  172  ssh 172.16.0.1
+  173  ssh 172.16.0.2
+  174  ssh 172.16.0.3
+  175  ssh 172.16.0.1
+  176  cat /etc/ssh/ssh_config
+  177  ssh 10.5.17.163
+  178  ssh 172.16.0.1
+  179  ping 172.16.0.1
+  180  cd projetos/python/canibal-problem-ia
+  181  git status
+  182  git diff
+  183  git stash
+  184  git pull
+  185  git checkout feature/part2
+  186  git pull
+  187  code .
+  188  docker container start ufjf_seguranca
+  189  docker container attach ufjf_seguranca
+  190  docker container run -H
+  191  docker container run -h
+  192  docker container run --help
+  193  docker container --help
+  194  docker inspect ufjf_seguranca 
+  195  where docker
+  196  ls /var/lib/docker
+  197  sudo ls /var/lib/docker
+  198  sudo su
+  199  exit
+  200  docker start ufjf_seguranca
+  201  docker attach ufjf_seguranca
+  202  sudo iptables -L
+  203  ssh 172.17.0.2
+  204  ssh root@172.17.0.2
+  205  cd projetos
+  206  ls
+  207  cd wp
+  208  code events-manager/admin
+  209  ifconfig
+  210  ping 172.16.0.1
+  211  ping 172.17.0.2
+  212  wget 172.17.0.2:80
+  213  docker container start ufjf_seg_client
+  214  docker container attach ufjf_seg_client
+  215  iptables -L
+  216  sudo iptables -L
+  217  docker start ufjf_seguranca
+  218  docker container attach ufjf_seguranca
+  219  wget 172.17.0.2:8000
+  220  wget 172.17.0.2:80
+  221  ping 172.17.0.2
+  222  wget 172.17.0.2:80
+  223  ssh root@172.17.0.2
+  224  wget 172.17.0.2:80
+  225  ssh root@172.17.0.2
+  226  wget http://172.17.0.2:80
+  227  ssh root@172.17.0.2
+  228  wget http://172.17.0.2:80
+  229  wget http://172.17.0.2
+  230  php -S localhost:1234
+  231  ssh root@172.17.0.2
+  232  wget http://172.17.0.2
+  233  wget http://172.17.0.2:8000
+  234  wget http://172.17.0.2:22
+  235  ssh root@172.17.0.2
+  236  wget http://172.17.0.2:22
+  237  nc
+  238  wget http://172.17.0.2:8080
+  239  docker container stop ufjf_seguranca
+  240  docker start ufjf_seguranca
+  241  docker container list
+  242  docker container attach ufjf_seguranca
+  243  wget http://172.17.0.2:2000
+  244  wget http://172.17.0.2:8000
+  245  wget http://172.17.0.2:2000
+  246  wget http://172.17.0.2:80
+  247  ifconfig
+  248  php -S localhost:1234
+  249  ifconfig
+  250  wget http://172.17.0.2:80
+  251  ifconfig
+  252  exit
+  253  wget http://172.17.0.2:80
+  254  ifconfig
+  255  ip a
+  256  ping 172.17.0.2
+  257  ssh 172.17.0.2
+  258  ssh 172.17.0.2:3333
+  259  ssh root@172.17.0.2:3333
+  260  ssh root@172.17.0.2
+  261  ssh root@172.17.0.2:3333
+  262  apt update
+  263  sudo apt update
+  264  apt upgrade
+  265  sudo apt upgrade
+  266  sudo apt install
+  267  docker-compose up
+  268  docker-compose down
+  269  docker-compose up
+  270  docker-compose down
+  271  docker-compose up -H
+  272  docker-compose up --build
+  273  docker-compose down
+  274  ./update.sh
+  275  chomod a+x update.sh
+  276  chmod
+  277  chmod a+x update.sh
+  278  ./update.sh
+  279  sudo ./update.sh
+  280  ./update.sh
+  281  /bin/bash
+  282  exit
+  283  docker container start ufjf_seguranca
+  284  docker container attach ufjf_seguranca
+  285  cd master
+  286  docker build -t maxjf1/kaldi-gstreamer-server-master
+  287  docker build -t maxjf1/kaldi-gstreamer-server-master .
+  288  docker push maxjf1/kaldi-gstreamer-server-master:latest
+  289  docker login
+  290  docker push maxjf1/kaldi-gstreamer-server-master:latest
+  291  cd ..
+  292  chmod a+x update.sh
+  293  ./update.sh
+  294  docker-compose down
+  295  docker-compose up
+  296  git init
+  297  git remote add origin git@github.com:maxjf1/docker-kaldi-gstreamer-server-.git
+  298  git add -A
+  299  git commit 
+  300  git push -u origin master
+  301  git pull
+  302  cd projetos/python
+  303  ls
+  304  cd trabalho-po
+  305  code .
+  306  git pull
+  307  git statu
+  308  git status
+  309  gurobi.sh main.py
+  310  pip2
+  311  pip
+  312  pip3
+  313  apt install python2-pip
+  314  gurobi.sh main.py 2>> output.txt
+  315  gurobi.sh main.py 1>> output.txt
+  316  python main.py
+  317  gurobi.sh main.py
+  318  gurobi.sh main.py foo bar
+  319  gurobi.sh main.py 
+  320  gurobi.sh main.py foo bar
+  321  gurobi.sh main.py ./models/c101.txt
+  322  chmod a+x init.sh
+  323  ./init.sh
+  324  git rm -rf gurobi.log
+  325  git status
+  326  git-adc "ADD parameter, ADD benchmark script"
+  327  git push
+  328  git remote add mirror git@github.com:maxjf1/routing-simplex-python.git
+  329  git push mirror master
+  330  sudo apt install libpng-dev
+  331  cat /usr/include/libpng
+  332  sudo apt-get install g++ codeblocks freeglut3-dev libglew-dev lib32z1-dev zlib1g-dev libalut-dev libpng-dev libjpeg-dev libglm-dev libglfw3 libglfw3-dev libglfw3-doc libsoil-dev libassimp-dev 
+  333  git-adc "ADD class"
+  334  git push
+  335  cd projetos
+  336  ls
+  337  ls testes
+  338  rm -rf testes
+  339  ls
+  340  ls bolsa
+  341  ls etc
+  342  ls etc/seg
+  343  cat etc/seg/docker-compose.yml
+  344  rm -rf etc
+  345  ls
+  346  mkdir appmasters
+  347  cd appmasters
+  348  git clone git@gitlab.com:app-masters/service-finder.git
+  349  sudo apt update
+  350  sudo apt upgrade
+  351  sudo apt install
+  352  code service-finder
+  353  cd service-finder
+  354  git checkout -b 199-preparar-ambiente-atual-docker
+  355  cd api/
+  356  code app
+  357  code .
+  358  edit ../README.md
+  359  docker -v
+  360  node -v
+  361  nvm use 8
+  362  npm install
+  363  npm run build
+  364  $https_proxy
+  365  echo $https_proxy
+  366  docker build -t node_demo .
+  367  docker images
+  368  docker build -t node_light .
+  369  docker images
+  370  docker build -t node_light .
+  371  cat ../.gitignore
+  372  docker build -t node_light .
+  373  docker images
+  374  docker run -it node_demo:latest 
+  375  docker run -it node_light:latest
+  376  node run -h
+  377  node run -H
+  378  docker run -h
+  379  docker run -H
+  380  docker run --help
+  381  docker run -it node:8-alpine -it /bin/bash
+  382  docker run -it  node:8-alpine /bin/bash
+  383  docker run -it  node:8-alpine /bin/sh
+  384  docker run -it  node:8-slim /bin/sh
+  385  docker images
+  386  docker image rm 7e4f79d51714 dc559ed5b5d6 1ad898dff962
+  387  docker images
+  388  cd projetos/python
+  389  ls
+  390  cd trabalho-po
+  391  code .
+  392  git pull
+  393  ./benchmark.sh
+  394  rm -rf ./logs/*.log
+  395  ls logs
+  396  rm -rf ./logs/*.log
+  397  ./benchmark.sh
+  398  docker image rm node_demo node_light
+  399  docker compose up
+  400  docker-compose up
+  401  docker-compose down
+  402  docker-compose up
+  403  docker container ls
+  404  sudo docker container ls
+  405  docker container ls
+  406  docker container ls -l
+  407  cat ~/Downloads/7cd8e0b2-3c14-43da-8c9d-55768b0fa05b| sudo docker exec d5b309494d80 psql -U service_finder -d service_finder
+  408  docker-compose up
+  409  cat ~/Downloads/7cd8e0b2-3c14-43da-8c9d-55768b0fa05b| sudo docker exec d5b309494d80 psql -U service_finder -d service_finder
+  410  docker-compose up
+  411  exit
+  412  cat ../README.md
+  413  docker-compose up
+  414  docker-compose down
+  415  docker-compose up
+  416  history
+  417  docker container ls
+  418  cat ~/Downloads/7cd8e0b2-3c14-43da-8c9d-55768b0fa05b| sudo docker exec 55b6a7038a1d psql -U service_finder -d service_finder
+  419  exit
+  420  cat ~/Downloads/7cd8e0b2-3c14-43da-8c9d-55768b0fa05b| sudo docker exec 55b6a7038a1d psql -U service_finder -d service_finder
+  421  docker-compose up
+  422  docker container attach api_db_1
+  423  docker-compose up
+  424  docker exec -it 7175339e4b2d3d0596a5023a2a6a50d202f850a0817e0d468a2d8a1cab6fbeaf /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin/sh"
+  425  docker exec -it api_db_1 /bin/bash
+  426  docker cp ~/Downloads/7cd8e0b2-3c14-43da-8c9d-55768b0fa05b 717:/dump_max
+  427  docker exec -it api_db_1 /bin/bash
+  428  exit
+  429  npm install
+  430  sudo rm -rf temp
+  431  docker-compose up
+  432  docker-compose down
+  433  docker-compose up
+  434  docker container ls
+  435  docker cp ~/Downloads/7cd8e0b2-3c14-43da-8c9d-55768b0fa05b 5f4:/dump_max
+  436  docker exec -it api_db_1 /bin/bash
+  437  docker-compose up
+  438  npm run dev:developer:server
+  439  npm run dev:developer:build-server
+  440  cat ../README.md
+  441  npm run dev:developer:server
+  442  exit
+  443  npm run developer
+  444  npm run dev:developer:server
+  445  npm run dev:developer:build-server
+  446  npm run dev:developer:server
+  447  npm run developer
+  448  exit
+  449  npm run developer
+  450  clear
+  451  cls
+  452  exit
+  453  npm run developer
+  454  ls logs
+  455  cls
+  456  gnome-terminal
+  457  deepin-terminal
+  458  exit
+  459  npm run developer
+  460  exit
+  461  npm run developer
+  462  ls logs
+  463  cat logs/rc108.log
+  464  ls logs
+  465  cat logs/rc205.log
+  466  cat logs/rc204.log
+  467  cat logs/rc203.log
+  468  cat logs/rc204.log
+  469  exit
+  470  npm run developer
+  471  ls logs
+  472  cat logs/rc205.log
+  473  cat logs/rc204.log
+  474  cat logs/rc203.log
+  475  cat logs/rc202.log
+  476  cat logs/rc201.log
+  477  cat logs/rc200.log
+  478  cat logs/r210
+  479  cat logs/r210.log
+  480  ls logs
+  481  npm run developer
+  482  npm run developer >> erros.log 2>> &1
+  483  npm run developer >> erros.log 2>>&1
+  484  npm run developer >> erros.log 2>&1
+  485  exit
+  486  ls logs
+  487  cat logs/rc205.log
+  488  ls logs
+  489  cat logs/rc206.log
+  490  cat logs/rc205.log
+  491  cat logs/rc206.log
+  492  sudo apt install sl
+  493  sl
+  494  which sl
+  495  ls /usr/games/sl
+  496  ls -l /usr/games/sl
+  497  dde-file-manager/usr/games
+  498  sudo dde-file-manager/usr/games
+  499  sudo dde-file-manager /usr/games
+  500  ls-h
+  501  sl-h
+  502  ls /usr/games
+  503  LS
+  504  man LS
+  505  LS -a
+  506  LS -l
+  507  man LS
+  508  LS -F
+  509  LS -e
+  510  cat logs/rc207.log
+  511  cat logs/rc208.log
+  512  ls
+  513  ls models
+  514  git status
+  515  git-adc "FIX script erros, add fixed logs"
+  516  git push
+  517  git push mirror master
+  518  exit
+  519  docker-compose up
+  520  docker container ls
+  521  ls
+  522  docker cp erros.log service_finder_db:/dump
+  523  docker container attach service_finder_db
+  524  gurobi.sh ./models/c101.txt
+  525  gurobi.sh main.py ./models/c101.txt
+  526  docker exec -it service_finder_db /bin/bash
+  527  docker-compose up
+  528  docker exec -it service_finder_db /bin/bash
+  529  git status
+  530  git-adc "ADD docker DB for API"
+  531  git push
+  532  node -v
+  533  nvm install node
+  534  node use 8
+  535  nvm use 8
+  536  rm -rf node_modules
+  537  npm install
+  538  node -v
+  539  npm run developer
+  540  docker-compose up
+  541  exit
+  542  npm run developer
+  543  npm run education
+  544  npm run developer
+  545  apt update
+  546  sudo apt update
+  547  sudo apt upgrade
+  548  node -v
+  549  nvm install node
+  550  npm install -g
+  551  npm update -g
+  552  edit-zsh
+  553  npm install -g create-react-app
+  554  create-react-app -v
+  555  create-react-app -V
+  556  cd projetos
+  557  ls
+  558  mkdir react
+  559  cd react
+  560  create-react-app portifolio
+  561  cd portifolio
+  562  code .
+  563  npm run start
+  564  ▀\t▁\t▂\t▃\t▄\t▅\t▆\t▇\t█\t▉\t▊\t▋\t▌\t▍\t▎\t▏
+  565  npm install -g jshint
+  566  npm run ncu
+  567  npm install -g ncu
+  568  ncu -V
+  569  npm uninstall -g ncu
+  570  npm install --save-dev  npm-check-updates 
+  571  npm run developer
+  572  docker-compose up
+  573  exit
+  574  cat ../README.md
+  575  docker exec -it service_finder_db /bin/bash
+  576  docker cp ~/Downloads/7cd8e0b2-3c14-43da-8c9d-55768b0fa05b service_finder_db:/dump
+  577  docker exec -it service_finder_db /bin/bash
+  578  docker-compose down
+  579  docker-compose up
+  580  docker cp ~/Downloads/7cd8e0b2-3c14-43da-8c9d-55768b0fa05b service_finder_db:/dump
+  581  docker exec -it service_finder_db /bin/bash
+  582  ls database
+  583  sudo ls database
+  584  sudo rm -rf temp/database
+  585  docker-compose up
+  586  docker exec -it service_finder_db /bin/bash
+  587  docker-compose down
+  588  docker-compose up
+  589  docker cp ~/Downloads/7cd8e0b2-3c14-43da-8c9d-55768b0fa05b service_finder_db:/dump
+  590  docker exec -it service_finder_db /bin/bash
+  591  cd ~/Downloads
+  592  ls
+  593  edit 7cd8e0b2-3c14-43da-8c9d-55768b0fa05b
+  594  code 7cd8e0b2-3c14-43da-8c9d-55768b0fa05b
+  595  docker-compose down
+  596  docker-compose up
+  597  docker cp ~/Downloads/7cd8e0b2-3c14-43da-8c9d-55768b0fa05b service_finder_db:/dump
+  598  docker exec -it service_finder_db /bin/bash
+  599  git status
+  600  git diff
+  601  git checkout -- src/routes/developer/metadataHandler.js
+  602  git diff index.js
+  603  git checkout -- index.js
+  604  git status
+  605  git-adc "FIX ssl"
+  606  git push
+  607  git branch
+  608  docker-compose up
+  609  sudo apt update
+  610  sudo apt upgrade
+  611  docker exec -it service_finder_db /bin/bash
+  612  docker-compose down
+  613  sudo rm -rf temp
+  614  docker-compose up
+  615  exit
+  616  docker cp ~/Downloads/de8u3oh5jca7l5.sql service_finder_db:/dump.sql
+  617  docker exec -it service_finder_db /bin/bash
+  618  cat projetos/wp/zero40/docker-compose.yml
+  619  docker-compose up
+  620  docker-compose down
+  621  docker-compose up
+  622  docker-compose down
+  623  sudo rm -rf temp
+  624  docker-compose up
+  625  docker cp ~/Downloads/de8u3oh5jca7l5.sql service_finder_db
+  626  docker cp ~/Downloads/de8u3oh5jca7l5.sql service_finder_db:/dump.sql
+  627  docker exec service_finder_db -it /bin/bash
+  628  docker exec -it service_finder_db /bin/bash
+  629  edit-zsh
+  630  docker-compose down
+  631  sudo rm -rf temp
+  632  docker-compose up
+  633  docker exec -it service_finder_db /bin/bash
+  634  docker cp service_finder_db:/dump ./dump
+  635  ls
+  636  docker-compose down
+  637  docker-compose up
+  638  npm run update:developer
+  639  docker exec -it service_finder_db /bin/bash
+  640  npm run developer
+  641  docker exec -it service_finder_db /bin/bash
+  642  docker cp ./dump service_finder_db:/dump
+  643  docker exec -it service_finder_db /bin/bash
+  644  npm run developer
+  645  git status
+  646  mkdir tempo
+  647  mv tempo temp
+  648  mv dump temp/dump
+  649  ls
+  650  git status
+  651  git diff
+  652  git checkout -- app/developer/views/AnalyticalReport.js
+  653  git status
+  654  git-adc "UPDATE doc"
+  655  git push
+  656  git pull dev
+  657  git pull origin dev
+  658  git merge dev
+  659  eexit
+  660  exit
+  661  npm run developer
+  662  clear
+  663  sudo apt update
+  664  clear
+  665  sudo apt update
+  666  clear
+  667  bind
+  668  edit-zsh
+  669  edit-bash
+  670  exit
+  671  npm run developer
+  672  npm run developer &
+  673  exit
+  674  exit -f
+  675  exit
+  676  npm run developer &
+  677  exit -f
+  678  exit
+  679  docker-compose up
+  680  npm run developer
+  681  npm run developer &
+  682  exit
+  683  npm run developer
+  684  git status
+  685  docker container exec -it /bin/bash
+  686  gzip
+  687  gzip dump
+  688  docker container exec -it /bin/bash
+  689  docker container -it exec service_finder_db /bin/bash 
+  690  docker container exec -it service_finder_db /bin/bash 
+  691  node -v
+  692  npm run developer
+  693  docker-compose up
+  694  docker-compose down
+  695  docker-compose up
+  696  docker container exec -it service_finder_db /bin/bash
+  697  npm run developer
+  698  git diff
+  699  git status
+  700  git diff app/developer/views/OpportunityDetails.js
+  701  git diff app/developer/views/OpportunityListItemSmall.js
+  702  git diff src/model/developer/developerOpportunities.js
+  703  git checkout -- src/model/developer/developerOpportunities.js
+  704  edit-bash
+  705  git status
+  706  git diff src/model/developer/developerOpportunity.js
+  707  git diff src/routes/mapReqToProps.js
+  708  git-undo src/routes/mapReqToProps.js
+  709  git-undo webpack.client.js
+  710  git-undo webpack.server.js
+  711  git undo src/routes/mapReqToProps.education.js
+  712  git-undo src/routes/mapReqToProps.education.js
+  713  rm src/routes/mapReqToProps.education.js
+  714  git checkout -b 203-lista-de-oportunidades
+  715  git-adc "FIX issues"
+  716  git push
+  717  git branch
+  718  npm run database
+  719  npm run developer
+  720  sudo htop
+  721  sudo apt install mesa-common-dev
+  722  exit
+  723  docker-compose up
+  724  npm run developer
+  725  docker-compose up
+  726  knex -v
+  727  npm install -g knex
+  728  edit-bash
+  729  knex -v
+  730  knex -V
+  731  knex migrate:make update_developer_opportunity_foreigns_delete_cascade
+  732  SERVICE=developer
+  733  knex migrate:make update_developer_opportunity_foreigns_delete_cascade
+  734  DATABASE_URL=postgresql://service_finder:service_finder@127.0.0.1:5432/service_finder?ssl=true&sslmode=require
+  735  DATABASE_URL="postgresql://service_finder:service_finder@127.0.0.1:5432/service_finder?ssl=true&sslmode=require"
+  736  echo $DATABASE_URL
+  737  echo $SERVICE
+  738  knex migrate:make update_developer_opportunity_foreigns_delete_cascade
+  739  export DATABASE_URL="postgresql://service_finder:service_finder@127.0.0.1:5432/service_finder?ssl=true&sslmode=require"
+  740  export SERVICE=developer
+  741  knex migrate:make update_developer_opportunity_foreigns_delete_cascade
+  742  export DATABASE_URL="{"developer": "postgresql://service_finder:service_finder@127.0.0.1:5432/service_finder?ssl=true&sslmode=require" }"
+  743  echo $DATABASE_URL
+  744  DATABASE_URL="{"developer": "postgresql://service_finder:service_finder@127.0.0.1:5432/service_finder?ssl=true&sslmode=require" }"
+  745  DATABASE_URL='{"developer": "postgresql://service_finder:service_finder@127.0.0.1:5432/service_finder?ssl=true&sslmode=require" }'
+  746  echo $DATABASE_URL
+  747  export DATABASE_URL='{"developer": "postgresql://service_finder:service_finder@127.0.0.1:5432/service_finder?ssl=true&sslmode=require" }'
+  748  knex migrate:make update_developer_opportunity_foreigns_delete_cascade
+  749  npm run developer
+  750  npm run update:developer
+  751  npm run rollback:developer
+  752  npm run update:developer
+  753  npm run rollback:developer
+  754  npm run update:developer
+  755  npm run rollback:developer
+  756  npm run update:developer
+  757  npm run rollback:developer
+  758  npm run update:developer
+  759  npm run rollback:developer
+  760  npm run update:developer
+  761  exit
+  762  cd projetos/appmasters/service-finder
+  763  git status
+  764  git diff
+  765  git-adc "FIX issue, ADD documentaiton"
+  766  git push
+  767  docker-compose up
+  768  docker container exec -it service_finder_db /bin/bash
+  769  git status
+  770  docker cp ./temp/dump service_finder_db:/dump_final
+  771  exit
+  772  npm run developer
+  773  cd projetos/react/portifolio
+  774  code .
+  775  npm start
+  776  edit-bash
+  777  npm start
+  778  sudo apt install gimp
+  779  sudo apt purge gimp
+  780  edit-zsh
+  781  lsb_release -a
+  782  sudo apt install fonts-emojione
+  783  5
+  784  cd ../
+  785  exit
+  786  docker-compose up
+  787  npm run developer
+  788  memtest
+  789  flow -v
+  790  npm run flow
+  791  cd projetos/appmasters/service-finder/api
+  792  docker-compose up
+  793  npm run developer
+  794  git checkout -b 201-candidatos-m
+  795  git checkout 203-lista-de-oportunidades
+  796  git checkout -b 201-candidatos
+  797  git-adc "ADD candidates view and queries"
+  798  git push
+  799  ping svr1---s551-xjgk1ahg-cdn.gvideo.g-storage.network
+  800  cd projetos/react
+  801  git clone git@github.com:maxjf1/pwanime.git
+  802  npm ci
+  803  npm ci -H
+  804  npm ci --help
+  805  npm --help
+  806  code pwanime
+  807  cd pwanime
+  808  npm install
+  809  npm start
+  810  npm run deploy
+  811  git-adc "FIX download buttons"
+  812  git push
+  813  npm start
+  814  git-adc "FIX initial home"
+  815  git-adc "FIX animes list"
+  816  npm run deploy
+  817  exit
+  818  git push
+  819  cd projetos/python
+  820  ]ls
+  821  ls
+  822  edit-zsh
+  823  npm -v
+  824  node -v
+  825  nvm use 8
+  826  nvm use 13
+  827  nvm install node
+  828  nvm use node
+  829  ls
+  830  cd trabalho-po
+  831  code .
+  832  sudo apt install python-pip 
+  833  /usr/bin/python -m pip install -U "pylint<2.0.0" --user
+  834  git pull
+  835  /usr/bin/python -m pip install -U autopep8 --user
+  836  sudo apt update
+  837  sudo apt upgrade
+  838  gurobi main.py ./models/c101.txt
+  839  gurobi.sh main.py ./models/c101.txt
+  840  gurobi.sh main.py ./models/r101.txt
+  841  gurobi.sh main.py ./models/c101.txt
+  842  gurobi.sh main.py ./models/r101.txt
+  843  gurobi.sh main.py ./models/c101.txt
+  844  gurobi.sh main.py ./models/r101.txt
+  845  git status
+  846  git diff
+  847  git checkout -b heuristica
+  848  git-adc "Initial commit"
+  849  git push
+  850  git checkout master
+  851  git checkout heuristica
+  852  git checkout master
+  853  gurobi.sh main.py ./models/r101.txt
+  854  git stash
+  855  git checkout heuristica
+  856  gurobi.sh main.py ./models/r101.txt
+  857  git diff master
+  858  gurobi.sh main.py ./models/r101.txt
+  859  gurobi.sh main.py ./models/r102.txt
+  860  gurobi.sh main.py ./models/r103
+  861  gurobi.sh main.py ./models/r103.txt
+  862  gurobi.sh main.py ./models/r101.txt
+  863  gurobi.sh main.py ./models/r104
+  864  gurobi.sh main.py ./models/r104.txt
+  865  gurobi.sh main.py ./models/r101.txt
+  866  gurobi.sh main.py ./models/rc101.txt
+  867  ./benchmark.sh
+  868  grbgetkey[
+  869  grbgetkey
+  870  431c976-0a42-11ea-94b5-0a7c4f30bdbe
+  871  grbgetkey 2431c976-0a42-11ea-94b5-0a7c4f30bdbe
+  872  ls
+  873  cd gurobi
+  874  ls
+  875  mkdir license
+  876  edit-bash
+  877  gurobi.sh main.py ./models/c101.txt
+  878  edit-bash 7
+  879  edit-bash 
+  880  gurobi.sh main.py ./models/c101.txt
+  881  ls  $GRB_LICENSE_FILE 
+  882  ls /home/maxjf1/gurobi/license
+  883  ls /home/maxjf1/gurobi/license/gurobi.lic
+  884  ls /home/maxjf1/gurobi/gurobi.lic
+  885  cat /home/maxjf1/gurobi/gurobi.lic
+  886  cat /home/maxjf1/gurobi/license/gurobi.lic
+  887  edit-bash
+  888  gurobi.sh main.py ./models/c101.txt
+  889  ./benchmark.sh
+  890  git-adc "FINISH heuristic"
+  891  git checkout master
+  892  git merge heuristica
+  893  git push
+  894  git push mirror master
+  895  webstorm -v
+  896  where webstorm
+  897  cat /usr/local/bin/webstorm
+  898  ls
+  899  cd projetos/appmasters
+  900  ls
+  901  cd service-finder
+  902  cd api
+  903  docker-compose up
+  904  git pull
+  905  git status
+  906  git pul dev
+  907  git pull dev
+  908  git pull origin dev
+  909  npm run developer
+  910  git-adc "FIX issues"
+  911  git push
+  912  npm install express-generator -g
+  913  npm install -g express-generator-api
+  914  cd projetos
+  915  ls
+  916  mkdir seg
+  917  cd seg
+  918  edit-bash
+  919  update-zsh 
+  920  express-api -v
+  921  express-api -V
+  922  express-api seg-api
+  923  code seg-api
+  924  cd ..
+  925  rm -rf ./ls
+  926  ls
+  927  cd seg
+  928  rm -rf seg-api
+  929  git clone git@github.com:saxenanihal95/node-boilerplate.git seg-api
+  930  ls
+  931  mkdir seg-api
+  932  code seg-api
+  933  cd seg-api
+  934  npm init
+  935  npm install -S express
+  936  npm start
+  937  ls
+  938  cd ..
+  939  ls
+  940  rm -rf seg-api
+  941  git clone git@github.com:maxjf1/iot-project-server.git seg-api
+  942  code .
+  943  cd seg-api
+  944  npm install
+  945  npm install --save-dev nodemon babel-cli
+  946  npm run start
+  947  npm install -S jsonwebtoken
+  948  ping ::ffff:10.5.17.163
+  949  ping 10.5.17.163
+  950  cd projetos/appmasters/service-finder/api
+  951  docker-compose up
+  952  npm run developer
+  953  git diff
+  954  cd projetos/react/pwanime
+  955  code .
+  956  wine -v
+  957  sudo apt install wine
+  958  sudo apt autoremove
+  959  wine -v
+  960  sudo apt install wine64
+  961  wine64 -v
+  962  wine -v
+  963  sudo apt install wine32
+  964  sudo apt install libwine
+  965  sudo apt install wine32
+  966  npm start
+  967  git-adc "ADD features" && git push && npm run deploy
+  968  cd projetos/appmasters/service-finder/api
+  969  docker-compose up
+  970  npm run developer
+  971  cd projetos/react/pwanime
+  972  code .
+  973  npm start
+  974  npm install --save axios-cache-adapter\n
+  975  npm run deploy
+  976  cd projetos/react/pwanime
+  977  git-adc "FIX issues" && git push && npm run deploy
+  978  ftp
+  979  cd projetos/python/trabalho-po
+  980  code .
+  981  gurobi.sh main.py ./models/c101.txt
+  982  "sudo apt-get install exuberant-ctags"
+  983  sudo apt-get install exuberant-ctags
+  984  gurobi.sh main.py ./models/r107.txt
+  985  cd projetos/python/trabalho-po
+  986  ls
+  987  code .
+  988  gurobi.sh main.py
+  989  git diff main.py
+  990  gurobi.sh main.py
+  991  gurobi.sh main.py ./models/r102.txt
+  992  gurobi.sh main.py ./models/rc101.txt
+  993  pip2 -v
+  994  pip2 install multiprocessing
+  995  gurobi.sh main.py ./models/rc101.txt
+  996  sudo apt update
+  997  sudo apt install
+  998  exit
+  999  echo 42
+ 1000  cd projetos/python/trabalho-po
+ 1001  gurobi.sh main.py
+ 1002  code .
+ 1003  gurobi.sh main.py
+ 1004  apt install openssl
+ 1005  sudo apt install openssl
+ 1006  ls
+ 1007  rm gurobi.log
+ 1008  ./benchmark.sh
+ 1009  gurobi.sh main.py models/r102.txt
+ 1010  ./benchmark.sh
+ 1011  echo date +"%T"
+ 1012  date +"%T"
+ 1013  ./benchmark.sh
+ 1014  tail -f logs/r102.log
+ 1015  ./benchmark.sh
+ 1016  tail -f logs/r102.log
+ 1017  tail -f logs/c101.log
+ 1018  ./benchmark.sh
+ 1019  tail -f logs/c101.log
+ 1020  ./benchmark.sh
+ 1021  tail -f logs/c101.log
+ 1022  exit
+ 1023  ./benchmark.sh
+ 1024  code .
+ 1025  git status
+ 1026  git-adc "Optimize code, update results"
+ 1027  git branch
+ 1028  git push && git push mirror master
+ 1029  deb
+ 1030  where add-apt-repository-deepin
+ 1031  edit /sbin/add-apt-repository-deepin
+ 1032  ls /etc/apt
+ 1033  cat /etc/apt/sources.list
+ 1034  cat /etc/apt/trusted.gpg
+ 1035  cat /etc/apt/sources.list
+ 1036  edit /etc/apt/sources.list
+ 1037  add-apt-repository
+ 1038  sudo add-apt-repository
+ 1039  sudo add-apt-repository   deb http://deb.playonlinux.com/ precise main
+ 1040  sudo add-apt-repository http://deb.playonlinux.com/ 
+ 1041  sudo apt update
+ 1042  sudo add-apt-repository -R http://deb.playonlinux.com/ 
+ 1043  sudo add-apt-repository -r http://deb.playonlinux.com/ 
+ 1044  sudo apt install  playonlinux
+ 1045  sudo apt install wine:i386
+ 1046  sudo add-apt-repository-deepin
+ 1047  sudo add-apt-repository-deepin ppa:ubuntu-wine/ppa
+ 1048  sudo apt update
+ 1049  sudo apt upgrade
+ 1050  sudo apt install dirmngr
+ 1051  sudo add-apt-repository ppa:ubuntu-wine/ppa\n
+ 1052  wget https://dl.winehq.org/wine-builds/Release.key\n    sudo apt-key add Release.key\n    sudo apt-add-repository 'https://dl.winehq.org/wine-builds/ubuntu/'\n
+ 1053  edit-bash
+ 1054  edit-apt
+ 1055  sudo apt update
+ 1056  edit-apt
+ 1057  sudo edit-apt
+ 1058  edit-bash
+ 1059  edit-apt
+ 1060  edit-bash
+ 1061  edit-apt
+ 1062  sudo apt update
+ 1063  edit-apt
+ 1064  sudo add-apt-repository -r ppa:ubuntu-wine/ppa\n
+ 1065  sudo apt update
+ 1066  edit-apt
+ 1067  echo edit-apt
+ 1068  echo $edit-apt
+ 1069  edit-bash
+ 1070  ls /etc/apt
+ 1071  ls /etc/apt/sources.list.d/
+ 1072  cat /etc/apt/sources.list.d/php7.list
+ 1073  cat /etc/apt/sources.list.d/spotify.list
+ 1074  cat /etc/apt/sources.list.d/spotify.list.save
+ 1075  cat /etc/apt/sources.list.d/vscode.list
+ 1076  where add-apt-repository-deepin
+ 1077  apt-add-repository
+ 1078  sudo apt-add-repository
+ 1079  sudo add-apt-repository
+ 1080  where add-apt-repository
+ 1081  where apt-add-repository 
+ 1082  cat apt-add-repository 
+ 1083  cat /usr/bin/apt-add-repository
+ 1084  cat /usr/bin/add-apt-repository
+ 1085  edit /usr/bin/add-apt-repository
+ 1086  code /usr/bin/add-apt-repository
+ 1087  where add-apt-repository-deepin
+ 1088  edit /sbin/add-apt-repository-deepin\n
+ 1089  sudo add-apt-repository ppa:ubuntu-wine/ppa\n
+ 1090  edit-apt
+ 1091  sudo apt update
+ 1092  edit-apt
+ 1093  sudo add-apt-repository -r ppa:ubuntu-wine/ppa\n
+ 1094  exit
+ 1095  edit-apt
+ 1096  sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/debian/ buster main'
+ 1097  sudo apt update
+ 1098  sudo add-apt-repository -r ppa:ubuntu-wine/ppa\n
+ 1099  cat Release.key
+ 1100  sudo apt update
+ 1101  sudo apt-secure
+ 1102  sudo add-apt-repository -r 'deb https://dl.winehq.org/wine-builds/debian/ buster main'
+ 1103  sudo apt update
+ 1104  sudo apt upgrade
+ 1105  exit
+ 1106  dpkg --print-architecture
+ 1107  sudo dpkg --add-architecture i386 && sudo apt update\n
+ 1108  sudo apt install \\n      wine \\n      wine32 \\n      wine64 \\n      libwine \\n      libwine:i386 \\n      fonts-wine
+ 1109  sudo apt install libwine
+ 1110  sudo apt install wine32
+ 1111  sudo apt install \\n      wine \\n      wine32 \\n      wine64 \\n      libwine \\n      libwine:i386 \\n      fonts-wine
+ 1112  sudo apt update
+ 1113  sudo apt install
+ 1114  sudo apt install \\n      wine \\n      wine32 \\n      wine64 \\n      libwine \\n      libwine:i386 \\n      fonts-wine
+ 1115  wine -v
+ 1116  wine 
+ 1117  wine --version
+ 1118  cd Downloads
+ 1119  ls
+ 1120  wine paint.net.4.2.5.install.exe
+ 1121  apt-get update\n
+ 1122  sudo su
+ 1123  cat /proc/sys/kernel/yama/ptrace_scope
+ 1124  sudo nano /proc/sys/kernel/yama/ptrace_scope
+ 1125  cat /proc/sys/kernel/yama/ptrace_scope
+ 1126  echo 0 | sudo tee /proc/sys/kernel/yama/ptrace_scope\n
+ 1127  cat /proc/sys/kernel/yama/ptrace_scope
+ 1128  sudo deepin-editor /etc/sysctl.d/10-ptrace.conf 
+ 1129  sudo nano /etc/sysctl.d/10-ptrace.conf 
+ 1130  playonlinux
+ 1131  rm -rf .PlayOnLinux/ressources/dotnet20
+ 1132  playonlinux
+ 1133  sudo apt update
+ 1134  sudo add-apt-repository 'deb http://deb.playonlinux.com/ stretch main'
+ 1135  sudo apt update
+ 1136  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 73F0D6E88E3D6C3A
+ 1137  sudo apt update
+ 1138  sudo apt-get install debian-keyring
+ 1139  gpg
+ 1140  gpg --keyring /usr/share/keyrings/debian-keyring.gpg -a --export 73F0D6E88E3D6C3A | apt-keya dd -
+ 1141  gpg --keyring /usr/share/keyrings/debian-keyring.gpg -a --export 73F0D6E88E3D6C3A | apt-key add -
+ 1142  sudo apt install mono mono-xbuild automake autoconf libmono-cairo2.0-cil gtk-sharp2 yelp-tools\n\n
+ 1143  ./autogen.sh
+ 1144  sudo apt install mono mono-xbuild
+ 1145  sudo apt install mono-xbuild
+ 1146  sudo gpg --keyring /usr/share/keyrings/debian-keyring.gpg -a --export 73F0D6E88E3D6C3A | apt-key add -
+ 1147  sudo su
+ 1148  sudo apt update
+ 1149  sudo apt install mono-xbuild
+ 1150  sudo apt update
+ 1151  ./autogen.sh
+ 1152  sudo apt install mono-devel
+ 1153  sudo apt upgrade
+ 1154  ./autogen.sh
+ 1155  sudo apt update
+ 1156  playonlinux --version
+ 1157  sudo apt update
+ 1158  sudo apt-get -o Acquire::ForceIPv4=true update
+ 1159  sudo apt-get update
+ 1160  ls
+ 1161  nano historico.md
+ 1162  echo 'Acquire::ForceIPv4 "true";' | sudo tee /etc/apt/apt.conf.d/99force-ipv4
+ 1163  sudo apt update
+ 1164  sudo apt install automake autoconf 
+ 1165  sudo apt install yelp-tools
+ 1166  sudo apt install gtk-sharp2
+ 1167  sudo apt install libmono-cairo4.0-cil
+ 1168  ./autogen.sh
+ 1169  sudo ./autogen.sh
+ 1170  sudo apt install mono
+ 1171  sudo apt install mono-xbuild
+ 1172  sudo ./autogen.sh
+ 1173  cat ./configure
+ 1174  edit ./configure
+ 1175  sudo ./autogen.sh
+ 1176  .autogen.sh
+ 1177  ./autogen.sh
+ 1178  edit ./configure
+ 1179  sudo ./autogen.sh
+ 1180  edit ./configure
+ 1181  sudo ./autogen.sh
+ 1182  playonlinux
+ 1183  sudo playonlinux
+ 1184  playonlinux
+ 1185  \n
+ 1186  painter
+ 1187  ls /usr/share/applications
+ 1188  cat .local/share/applications/mimeapps.list
+ 1189  where playonlinux
+ 1190  ls
+ 1191  where playonlinux
+ 1192  playonlinux Downloads/skybox.jpg
+ 1193  touch Paint.NET
+ 1194  code Paint.NET
+ 1195  edit-bash
+ 1196  chmod a+x Paint.NET
+ 1197  cd projetos/seg/seg-api
+ 1198  ls
+ 1199  git branch
+ 1200  git-adc "ADD base T3"
+ 1201  git checkout -b "dev"
+ 1202  git-adc "ADD base texCube"
+ 1203  git checkout master
+ 1204  git diff
+ 1205  git status
+ 1206  git diff
+ 1207  git-adc "update code"
+ 1208  git checkout dev
+ 1209  git checkout master
+ 1210  git status
+ 1211  git-adc "FINISH T3"
+ 1212  git push
+ 1213  git checkout -b codeblocks
+ 1214  git-adc "FIX codeblocks texture path"
+ 1215  git push
+ 1216  git checkout master
+ 1217  cd projetos/cg/cg-t1
+ 1218  git status
+ 1219  git push
+ 1220  git checkout codeblocks
+ 1221  git push
+ 1222  git push -u origin master
+ 1223  git checkout master
+ 1224  git status
+ 1225  git branch
+ 1226  git checkout codeblocks
+ 1227  git status
+ 1228  git push
+ 1229  git push -u origin master
+ 1230  git push
+ 1231  git checkout master
+ 1232  git pull
+ 1233  code .
+ 1234  cd projetos/seg/seg-api
+ 1235  code .
+ 1236  cd projetos/seg/seg-api
+ 1237  code .
+ 1238  npm start
+ 1239  exit
+ 1240  npm install -S lowdb\n
+ 1241  npm start
+ 1242  ln -h
+ 1243  ln --help
+ 1244  ls /opt/
+ 1245  wget https://dl.pstmn.io/download/latest/linux64 postman.tar.gz
+ 1246  sudo tar -xzf postman.tar.gz -C /opt\n
+ 1247  ls 
+ 1248  wget https://dl.pstmn.io/download/latest/linux64 -O postman.tar.gz
+ 1249  sudo tar -xzf postman.tar.gz -C /opt\n
+ 1250  rm postman.tar.gz\n
+ 1251  sudo ln -s /opt/Postman/Postman /usr/bin/postman\n
+ 1252  postman
+ 1253  ls .local/share/applications/
+ 1254  cat > ~/.local/share/applications/postman.desktop <<EOL\n[Desktop Entry]\nEncoding=UTF-8\nName=Postman\nExec=postman\nIcon=/opt/Postman/app/resources/app/assets/icon.png\nTerminal=false\nType=Application\nCategories=Development;\nEOL
+ 1255  npm install -S body-parser
+ 1256  npm run dev
+ 1257  npm start
+ 1258  npm run dev
+ 1259  git init
+ 1260  git remote add origin git@github.com:maxjf1/seg-iot-auth-api.git
+ 1261  git remote
+ 1262  git status
+ 1263  cat .git/config
+ 1264  rm -rf .git
+ 1265  git init
+ 1266  git remote add origin git@github.com:maxjf1/seg-iot-auth-api.git
+ 1267  git status
+ 1268  node -v
+ 1269  git status
+ 1270  git-adc "ADD initial API"
+ 1271  git push
+ 1272  git status
+ 1273  git-adc "FIX dependencies"
+ 1274  git push
+ 1275  npm audit fix
+ 1276  npm audit 
+ 1277  git status
+ 1278  git push
+ 1279  cd ..
+ 1280  cd react
+ 1281  ls
+ 1282  git clone git@github.com:maxjf1/react-material-boilerplate.git
+ 1283  code react-material-boilerplate
+ 1284  ls
+ 1285  rm -rf react-material-boilerplate
+ 1286  cd ..
+ 1287  cd seg
+ 1288  git clone git@github.com:maxjf1/react-material-boilerplate.git seg-app
+ 1289  code seg-app
+ 1290  cd seg-app
+ 1291  cd ../seg-app
+ 1292  npm install
+ 1293  npm install @material-ui/core\n
+ 1294  npm install
+ 1295  npm start
+ 1296  rm -rf node_modules
+ 1297  rm package-lock.json
+ 1298  rm yarn.lock
+ 1299  yarn
+ 1300  npm start
+ 1301  exit
+ 1302  cd projetos/seg/seg-app
+ 1303  code .
+ 1304  npm start
+ 1305  cd ../seg-api
+ 1306  git-adc "FIX API"
+ 1307  git push
+ 1308  git-adc "ADD base project"
+ 1309  rm -rf .git\n
+ 1310  git init
+ 1311  git remote add origin git@github.com:maxjf1/seg-iot-auth-app.git
+ 1312  git-adc "ADD app"
+ 1313  git push
+ 1314  exit
+ 1315  npm run deploy
+ 1316  npm run dev
+ 1317  git-adc "FIX invalid auth"
+ 1318  git push
+ 1319  git-adc "FIX textures"
+ 1320  git push
+ 1321  ls /swapfile
+ 1322  cat /swapfile
+ 1323  sudo cat /swapfile
+ 1324  ls /etc/fstab
+ 1325  cat  /etc/fstab
+ 1326  ls /dev/sda1
+ 1327  cd /dev/sda1
+ 1328  cat /dev/sda1
+ 1329  sudo cat /dev/sda1
+ 1330  cat  /etc/fstab
+ 1331  fdisk -l
+ 1332  sudo fdisk -l
+ 1333  swapon /dev/sda7
+ 1334  sudo swapon /dev/sda7
+ 1335  sudo swapon /media/maxjf1/6a0252c9-7f58-437d-b9f5-95d62cd81cb7/swapfile
+ 1336  htop
+ 1337  ls .local/share/applications
+ 1338  cat .local/share/applications/chrome-cickkljiaknlhndjlmpoopadgcdoglnl-Profile_2.desktop
+ 1339  cat .local/share/applications/chrome-cickkljiaknlhndjlmpoopadgcdoglnl-Profile_2
+ 1340  ls .local/share/applications/
+ 1341  open .local/share/applications/
+ 1342  xdg-open .local/share/applications/
+ 1343  ls /opt/google/chrome/google-chrome
+ 1344  ls /opt/google/chrome/
+ 1345  ls /opt/google/chrome/default_apps
+ 1346  ls /opt/google/chrome/locales
+ 1347  nohup xdg-open .local/share/applications/ &
+ 1348  sudo deepin-editor /usr/bin/open.sh
+ 1349  edit-bash
+ 1350  sudo chmod a+x /usr/bin/open.sh
+ 1351  open.sh a b c 
+ 1352  open.sh echo "Looo"
+ 1353  open.sh historico.md
+ 1354  ls
+ 1355  rm nohup.out
+ 1356  open.sh historico.md
+ 1357  ls
+ 1358  mv /usr/bin/open.sh /usr/bin/open
+ 1359  sudo mv /usr/bin/open.sh /usr/bin/open
+ 1360  edit-bash
+ 1361  run
+ 1362  sudo cp /usr/bin/open /usr/bin/run
+ 1363  sudo open /usr/bin/run
+ 1364  sudo deepin-editor usr/bin/run
+ 1365  sudo deepin-editor /usr/bin/run
+ 1366  run echo 42
+ 1367  sudo deepin-editor /usr/bin/run
+ 1368  sudo deepin-editor /usr/bin/open
+ 1369  sudo deepin-editor /usr/bin/run
+ 1370  run echo 42
+ 1371  sudo deepin-editor /usr/bin/run
+ 1372  run echo 42
+ 1373  sudo deepin-editor /usr/bin/run
+ 1374  sudo deepin-editor /usr/bin/open
+ 1375  npm run dev
+ 1376  cd ../seg-api
+ 1377  ls
+ 1378  git-adc "ADD delete"
+ 1379  git push
+ 1380  npm start
+ 1381  cd ../seg-api
+ 1382  npm run dev
+ 1383  git-adc "ADD delete" && git push && npm run deploy
+ 1384  git-adc "FIX delete" && git push
+ 1385  exit
+ 1386  cd projetos/seg/seg-api
+ 1387  code .
+ 1388  git-adc "UPDATE doc"
+ 1389  git push
+ 1390  git-adc "FIX data order"
+ 1391  git push
+ 1392  npm start
+ 1393  npm run deploy && git-adc "ADD animations" && git push
+ 1394  git-adc "FIX bug" && git push
+ 1395  git push
+ 1396  cat /usr/bin/open
+ 1397  cat /usr/bin/run
+ 1398  sudo apt update
+ 1399  sudo apt upgrade
+ 1400  cd projetos/bolsa
+ 1401  ls
+ 1402  git clone git@github.com:eduardorochasoares/easytopic.git 
+ 1403  ls
+ 1404  cd easytopic
+ 1405  ls /media
+ 1406  ls /media/kaldi_models
+ 1407  ls /media/maxjf1
+ 1408  ls /media/maxjf1/007A76297A761C1A
+ 1409  ls /media/maxjf1/6a0252c9-7f58-437d-b9f5-95d62cd81cb7
+ 1410  ls /media/apt
+ 1411  ls /media/cdrom
+ 1412  sudo ls /media/apt
+ 1413  ls /media/apt
+ 1414  cd projetos/react/pwanime
+ 1415  code .
+ 1416  npm run deploy && git-adc "FIX episode date" && git push
+ 1417  mkdir volumes
+ 1418  cd volumes
+ 1419  mkdir kaldi_models word2vec
+ 1420  ls
+ 1421  cd kadi
+ 1422  cd kaldi_models
+ 1423  open .
+ 1424  cd projetos/bolsa/easytopic
+ 1425  docker container ls
+ 1426  docker container
+ 1427  docker container ls
+ 1428  docker image ls
+ 1429  cd volumes/word2vec
+ 1430  wget --save-cookies cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=0B7XkCwpI5KDYNlNUTTlSS21pQmM' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/Code: \1\n/p'
+ 1431  ls
+ 1432  cat cookies.txt
+ 1433  wget --save-cookies cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=0B7XkCwpI5KDYNlNUTTlSS21pQmM' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/Code: \1\n/p'\n
+ 1434  wget --load-cookies cookies.txt 'https://docs.google.com/uc?export=download&confirm=CKTt&id=0B7XkCwpI5KDYNlNUTTlSS21pQmM' -O GoogleNews-vectors-negative300.bin.gz\n
+ 1435  gunzip GoogleNews-vectors-negative300.bin.gz
+ 1436  ls
+ 1437  cd ..
+ 1438  ls
+ 1439  cd ..
+ 1440  code .
+ 1441  docker-compose up
+ 1442  sudo k4dirstat
+ 1443  k4dirstat
+ 1444  docker-compose up
+ 1445  k4dirstat
+ 1446  sudo k4dirstat
+ 1447  ls /
+ 1448  rm -rf /swapfile
+ 1449  sudo rm -rf /swapfile
+ 1450  gparted
+ 1451  sudo gparted
+ 1452  cd /media/maxjf1/6a0252c9-7f58-437d-b9f5-95d62cd81cb7
+ 1453  ls
+ 1454  ls /etc/fstab
+ 1455  cat /etc/fstab
+ 1456  grep swap.*sw /etc/fstab
+ 1457  cat /etc/fstab
+ 1458  sudo blkid | grep swap
+ 1459  nano /etc/fstab
+ 1460  sudo nano /etc/fstab
+ 1461  sudo blkid | grep swap
+ 1462  sudo nano /etc/fstab
+ 1463  free -m
+ 1464  ls /dev/sda7
+ 1465  sudo ls /dev/sda7
+ 1466  cat /dev/sda7
+ 1467  sudp cat /dev/sda7
+ 1468  sudo cat /dev/sda7
+ 1469  cd projetos/bolsa/easytopic
+ 1470  docker-compose up
+ 1471  exit
+ 1472  cd example
+ 1473  edit-zsh
+ 1474  edit-bash
+ 1475  pip3 install -r requirements
+ 1476  pip3 install -r requirements.txt
+ 1477  echo SERVER_IP
+ 1478  echo $SERVER_IP
+ 1479  code .
+ 1480  cat ../docker-compose.yml
+ 1481  python3 segment.py --server_ip SERVER_IP
+ 1482  python3 segment.py --server_ip localhost
+ 1483  python3 segment.py --server_ip localhost:5000
+ 1484  python3 segment.py --server_ip localhost
+ 1485  python3 segment.py --server_ip 127.0.0.1
+ 1486  python3 segment.py --server_ip localhost
+ 1487  python3 segment.py --server_ip 127.0.0.1
+ 1488  docker-compose up
+ 1489  python3 segment.py
+ 1490  code .
+ 1491  node -v
+ 1492  npm install -g eslint
+ 1493  cd projetos/appmasters/service-finder
+ 1494  çs
+ 1495  ls
+ 1496  ls site
+ 1497  ls
+ 1498  cat README.md
+ 1499  ls
+ 1500  cd api
+ 1501  ls
+ 1502  npm run developer
+ 1503  git status
+ 1504  git branch
+ 1505  git checkout -b 202-vagas-de-estagio
+ 1506  npm run developer
+ 1507  cat docker-compose.yml
+ 1508  docker-compose up
+ 1509  npm run developer
+ 1510  docker-compose up
+ 1511  systemctl hibernate
+ 1512  sudo systemctl hibernate
+ 1513  history
+ 1514  gparted
+ 1515  sudo gparted
+ 1516  history
+ 1517  cat /etc/fstab
+ 1518  sudo blkid | grep swap
+ 1519  sudo nano /etc/fstab
+ 1520  grep swap.*sw /etc/fstab
+ 1521  systemctl hibernate
+ 1522  sudo gparted
+ 1523  cd projetos/appmasters/service-finder/api
+ 1524  exit
+ 1525  docker-compose up
+ 1526  npm run developer
+ 1527  git branch
+ 1528  git-adc "Added features"
+ 1529  git push
+ 1530  cd projetos/appmasters
+ 1531  git clone git@github.com:Computadores-Para-Todos/computers-4-all-manager.git comp4all
+ 1532  cd comp4all
+ 1533  nvm install 11
+ 1534  nvm use 11
+ 1535  ls
+ 1536  nvm --help
+ 1537  node -v
+ 1538  ls
+ 1539  cd api
+ 1540  ls
+ 1541  git branch
+ 1542  npm install
+ 1543  node -v
+ 1544  npm install
+ 1545  ls
+ 1546  git branch
+ 1547  ls
+ 1548  ls -h
+ 1549  ls ..
+ 1550  ls -h ..
+ 1551  ls -H ..
+ 1552  ls -a ..
+ 1553  ls -a .
+ 1554  cp .env.sample .env
+ 1555  ls -a
+ 1556  code .
+ 1557  nvm use
+ 1558  nvm install
+ 1559  npm start
+ 1560  nvm use
+ 1561  npm install
+ 1562  npm audit
+ 1563  npm start
+ 1564  git pull
+ 1565  git branch
+ 1566  cd ../pwa
+ 1567  sudo apt update
+ 1568  sudo apt upgrade
+ 1569  npm start
+ 1570  exit
+ 1571  npm start
+ 1572  exit
+ 1573  cd projetos/appmasters/service-finder
+ 1574  cd api
+ 1575  cat docker-compose.yml
+ 1576  cd ..
+ 1577  cd wp/academy
+ 1578  ls
+ 1579  cd ..
+ 1580  ls
+ 1581  cd zero40/
+ 1582  ls
+ 1583  cat docker-compose.yml
+ 1584  docker-compose up
+ 1585  npm start
+ 1586  git checkout -b 3-autenticacao-jwt
+ 1587  git status
+ 1588  git add .nvmrc
+ 1589  git commit -m "UPDATE nvm version"
+ 1590  git status
+ 1591  git diff bin/www
+ 1592  git-adc "ADD basic docker DB, FIX issues"
+ 1593  git pull origin 6-setup-do-database
+ 1594  \tgit status
+ 1595  npm install -S jsonwebtoken
+ 1596  docker-compose up
+ 1597  docker-compose down
+ 1598  docker-compose up
+ 1599  docker-compose down
+ 1600  sudo rm -rf temp/database
+ 1601  docker-compose up
+ 1602  npm start
+ 1603  sudo rm -rf temp/database
+ 1604  npm start
+ 1605  docker-compose up
+ 1606  npm start
+ 1607  sudo rm -rf temp/database
+ 1608  npm start
+ 1609  sudo rm -rf temp/database && docker-compose up
+ 1610  npm start
+ 1611  git status
+ 1612  git diff .prettierrc
+ 1613  git add .prettierrc .gitignore .eslintrc.json
+ 1614  git commit -m "UPDATE linters"
+ 1615  git add docker-compose.yml
+ 1616  git commit -m "ADD banco docker para desenvolvimento"
+ 1617  git-adc "ADD base para autenticação"
+ 1618  git push
+ 1619  sudo rm -rf temp/database && docker-compose up
+ 1620  npm start
+ 1621  git status
+ 1622  git add src/middlewares.js
+ 1623  git commit -m "ADD middlewares express"
+ 1624  git diff
+ 1625  git-adc "ADD rota whoami"
+ 1626  git push
+ 1627  git status
+ 1628  git-adc "ADD configurações, features de autenticação"
+ 1629  git push
+ 1630  sudo nano /etc/default/grub
+ 1631  sudo update-grub
+ 1632  git status
+ 1633  git pull
+ 1634  git branch
+ 1635  git status
+ 1636  git pull origin dev
+ 1637  docker-compose up
+ 1638  npm stars
+ 1639  npm start
+ 1640  git-adc "FIX issues"
+ 1641  git push
+ 1642  docker-compose up
+ 1643  git push
+ 1644  npm start
+ 1645  git-adc "UPDATE controller"
+ 1646  git push
+ 1647  git branch
+ 1648  git status
+ 1649  git push
+ 1650  git checkout -b 28-suporte-es6
+ 1651  node -v
+ 1652  nvm use node
+ 1653  nvm use 
+ 1654  npm install --save-dev @babel/core @babel/register @babel/preset-env
+ 1655  npm install --save-dev @babel/cli
+ 1656  git stash
+ 1657  npm install --save-dev @babel/cli @babel/core @babel/preset-env
+ 1658  l
+ 1659  npm install
+ 1660  npm run build
+ 1661  npm install
+ 1662  npm run build
+ 1663  npm start
+ 1664  docker-compose up
+ 1665  npm start
+ 1666  npm run dev
+ 1667  npm run build
+ 1668  npm run dev
+ 1669  npm install --save-dev @babel/node
+ 1670  npm run dev
+ 1671  git status
+ 1672  npm run build
+ 1673  npm start
+ 1674  npm run build
+ 1675  rm -rf dist
+ 1676  npm run build
+ 1677  exit
+ 1678  npm run build
+ 1679  sudo chmod -R 777 temp
+ 1680  npm run build
+ 1681  rm -rf dist
+ 1682  npm run dev
+ 1683  docker-compose up
+ 1684  npm run dev
+ 1685  docker-compose up
+ 1686  npm run build 
+ 1687  npm start
+ 1688  git-adc "ADD base babel"
+ 1689  git push
+ 1690  sudo nano /etc/default/grub
+ 1691  cd projetos/appmasters/comp4all/api
+ 1692  npm run build
+ 1693  npm start
+ 1694  code .
+ 1695  node
+ 1696  node -v
+ 1697  nvm use
+ 1698  node -v
+ 1699  node
+ 1700  npm run build
+ 1701  npm start
+ 1702  npm run dev
+ 1703  npm run build
+ 1704  npm start
+ 1705  docker-compose up
+ 1706  npm start
+ 1707  npm run build
+ 1708  npm start
+ 1709  ls
+ 1710  npm start
+ 1711  npm run database
+ 1712  npm start
+ 1713  rm -rf temp/database/
+ 1714  npm run database
+ 1715  npm run dev
+ 1716  rm -rf temp/database/
+ 1717  sudo rm -rf temp/database/
+ 1718  npm run dev
+ 1719  npm run database
+ 1720  npm run dev
+ 1721  npm run database
+ 1722  npm run dev
+ 1723  sudo rm -rf temp/database/
+ 1724  npm run database
+ 1725  npm run dev
+ 1726  git status
+ 1727  npm run build
+ 1728  npm start
+ 1729  code ../README.md
+ 1730  git pull
+ 1731  git pull origin dev
+ 1732  git status
+ 1733  git-adc "UPDATE build do projeto, codigo refatorado para ES6"
+ 1734  git pull origin dev
+ 1735  git status
+ 1736  git commit
+ 1737  git push
+ 1738  code ../README.md
+ 1739  sudo rm -rf temp/database/
+ 1740  docker-compose down
+ 1741  git-adc "UPDATE README"
+ 1742  git push
+ 1743  cd projetos/appmasters/comp4all
+ 1744  git status
+ 1745  git pull
+ 1746  code api
+ 1747  sudo apt update
+ 1748  sudo apt upgrade
+ 1749  ls
+ 1750  cd api
+ 1751  npm run prettier
+ 1752  npm run lint
+ 1753  npm run prettier
+ 1754  code ../README.md
+ 1755  git-adc "FIX linter, FIX code"
+ 1756  git push
+ 1757  git checkout 3-autenticacao-jwt
+ 1758  git pull
+ 1759  git pull origin 28-suporte-es6
+ 1760  git commit
+ 1761  npm run prettier
+ 1762  npm run lint
+ 1763  git push
+ 1764  git checkout -b 17-backend-de-status
+ 1765  npm run database
+ 1766  npm run dev
+ 1767  npm install
+ 1768  npm run dev
+ 1769  npm run prettier
+ 1770  edit src/models/StatusModel.js
+ 1771  npm run prettier
+ 1772  npm run lint
+ 1773  git status
+ 1774  git diff
+ 1775  git-adc "ADD Status model"
+ 1776  git push
+ 1777  git status
+ 1778  git diff
+ 1779  git-adc "FIX imports"
+ 1780  git push
+ 1781  git status
+ 1782  git stash
+ 1783  sudo apt update
+ 1784  cd projetos/appmasters/comp4all
+ 1785  git branch
+ 1786  git pull
+ 1787  git checkout -b 18-backend-de-doador
+ 1788  git pull dev
+ 1789  git pull origin dev
+ 1790  cd api
+ 1791  code .
+ 1792  exit
+ 1793  docker-compose up
+ 1794  npm run dev
+ 1795  git status
+ 1796  npm run prettier
+ 1797  npm run lint
+ 1798  git status
+ 1799  git-adc "ADD donators, UPDATE models e routers"
+ 1800  git push
+ 1801  git checkout -b 14-backend-de-dispositivos
+ 1802  code ../pwa
+ 1803  git status
+ 1804  git-adc "ADD device"
+ 1805  git push
+ 1806  npm run lint
+ 1807  npm run prettier
+ 1808  npm run lint
+ 1809  git-adc "UPDATE comments"
+ 1810  git push
+ 1811  git branch
+ 1812  git checkout -b  15-backend-de-atividades
+ 1813  git status
+ 1814  git-adc "ADD activity"
+ 1815  git 
+ 1816  git status
+ 1817  git-adc "ADD validação básica para activity"
+ 1818  git push
+ 1819  npm run prettier
+ 1820  npm run lint
+ 1821  git checkout -b 14-backend-de-comentarios
+ 1822  npm run prettier
+ 1823  npm run lint
+ 1824  git status
+ 1825  git-adc "ADD comment"
+ 1826  git push
+ 1827  cd projetos/react/pwanime
+ 1828  git pull
+ 1829  code .
+ 1830  npm start
+ 1831  heroku
+ 1832  nvm
+ 1833  node -v
+ 1834  npm install -g heroku-cli
+ 1835  snap
+ 1836  curl https://cli-assets.heroku.com/install-ubuntu.sh | sh
+ 1837  sudo apt upgrade
+ 1838  heroku -v
+ 1839  heroku create pwanime --buildpack mars/create-react-app\n
+ 1840  git-adc "UPDATE new URL"
+ 1841  git push
+ 1842  git status
+ 1843  git checkout gh-pages
+ 1844  git status
+ 1845  git rm static/ asset-manifest.json manifest.json service-worker.js
+ 1846  git rm -r static/ asset-manifest.json manifest.json service-worker.js
+ 1847  git status
+ 1848  git add index.html
+ 1849  git commit -m "ADD redirect"
+ 1850  git push
+ 1851  git checkout master 
+ 1852  cd projetos/bolsa/easytopic
+ 1853  docker-compose down
+ 1854  git pull
+ 1855  docker-compose up
+ 1856  docker ps
+ 1857  cd example
+ 1858  pip3 install -r requirements.txt
+ 1859  python3 segment.py
+ 1860  edit ../API_REST/app.py
+ 1861  python3 segment.py --server_ip 127.0.0.1
+ 1862  sudo apt update
+ 1863  sudo apt upgrade
+ 1864  sudo apt install firefox
+ 1865  docker pull ricktorzynski/ocr-tesseract-docker\n
+ 1866  docker run -d -p 5000:5000 ricktorzynski/ocr-tesseract-docker\n
+ 1867  docker stop objective_lewin
+ 1868  docker run -p 5000:5000 ricktorzynski/ocr-tesseract-docker\n
+ 1869  sudo apt-get install tesseract-ocr\n
+ 1870  code .
+ 1871  sudo apt update
+ 1872  nvm install node
+ 1873  git -v
+ 1874  git --version
+ 1875  sudo apt install git
+ 1876  git --version
+ 1877  add-apt-repository-deepin
+ 1878  cat add-apt-repository-deepin
+ 1879  cat $add-apt-repository-deepin
+ 1880  where add-apt-repository-deepin
+ 1881  cat /sbin/add-apt-repository-deepin\n
+ 1882  sudo add-apt-repository ppa:git-core/ppa\n
+ 1883  sudo apt update
+ 1884  sudo add-apt-repository -r ppa:git-core/ppa\n
+ 1885  npm install
+ 1886  npm install --save cors
+ 1887  npm install
+ 1888  npm i body-parser
+ 1889  npm i
+ 1890  npm start
+ 1891  npm run dev
+ 1892  npm i express
+ 1893  npm run dev
+ 1894  npm run build
+ 1895  npm star
+ 1896  npm start
+ 1897  git init
+ 1898  git remote add origin git@github.com:maxjf1/node-boilerplate.git
+ 1899  git-adc "FIRST COMMIT"
+ 1900  git push
+ 1901  rm -rf .git
+ 1902  git init
+ 1903  npm i node-tesseract-ocr\n
+ 1904  rm -rf .git
+ 1905  git init
+ 1906  rm -rf .git
+ 1907  npm run dev
+ 1908  git init
+ 1909  git-adc "FIRST commit, ocr tests"
+ 1910  git-adc "FIX readme"
+ 1911  git push
+ 1912  git remote add origin git@github.com:maxjf1/node-ocr-server.git
+ 1913  git push -u origin master
+ 1914  cd projetos/wp/
+ 1915  mv PROJETO phormar
+ 1916  cd phormar
+ 1917  rename
+ 1918  edit-bash
+ 1919  ls
+ 1920  rename 
+ 1921  rename readme.rtf readme.rtf2
+ 1922  rename readme.rtf2 readme.rtf
+ 1923  ls
+ 1924  ls html
+ 1925  code html
+ 1926  ls
+ 1927  php
+ 1928  cd projetos/bolsa/
+ 1929  rename ocr-ms node-ocr-server
+ 1930  code node-ocr-server
+ 1931  npm start
+ 1932  cd node-ocr-server
+ 1933  npm i express-fileupload
+ 1934  npm run dev v
+ 1935  npm run dev 
+ 1936  open /tmp/tmp-1-1581703711750
+ 1937  cd projetos/wp/wordpress
+ 1938  git pull
+ 1939  cd projetos/wp
+ 1940  mkdir wp-base-theme
+ 1941  cd wp-base-theme
+ 1942  git clone git@github.com:maxjf1/WordPress-Base-theme.git _s
+ 1943  echo $PATH
+ 1944  ls /home/maxjf1/toolbox
+ 1945  phpstorm
+ 1946  open
+ 1947  where open
+ 1948  cat /usr/bin/open
+ 1949  open phpstorm
+ 1950  phpstorm
+ 1951  open phpstorm
+ 1952  open ~/toolbox
+ 1953  cat /usr/bin/open
+ 1954  code toolbox
+ 1955  phpstorm
+ 1956  phpstorm projetos/wp/wp-base-theme/_s
+ 1957  cat /usr/bin/open
+ 1958  git pull
+ 1959  git fetch upstream
+ 1960  git remote 0
+ 1961  git remote -v
+ 1962  git remote add upstream git@github.com:Automattic/_s.git
+ 1963  git fetch upstream
+ 1964  git branch
+ 1965  git merge upstream/master
+ 1966  git push
+ 1967  git status
+ 1968  git-adc "UPDATE readme"
+ 1969  git pull
+ 1970  git push
+ 1971  cd projetos/wp/wp-base-theme
+ 1972  docker-compose up
+ 1973  ls
+ 1974  chmod -R 777 wp-content database
+ 1975  sudo chmod -R 777 wp-content database
+ 1976  htop
+ 1977  cd projetos/bolsa/node-ocr-server
+ 1978  docker ls
+ 1979  docker container ls
+ 1980  docker container list
+ 1981  npm run dev
+ 1982  docker container list
+ 1983  docker image list
+ 1984  pstree
+ 1985  npm install -g newman
+ 1986  java -jar ApacheJMeter.jar
+ 1987  cd ..
+ 1988  ls
+ 1989  cd ..
+ 1990  ls
+ 1991  rm -rf apache-jmeter-5.2.1/ apache-jmeter-5.2.1.tgz
+ 1992  newman
+ 1993  newman run 
+ 1994  newman run OCR/ocr
+ 1995  newman run OCR.postman_collection.json
+ 1996  newman run OCR.postman_collection.json &
+ 1997  touch load.sh
+ 1998  code load.sh
+ 1999  chmod 777 load.sh
+ 2000  newman run OCR.postman_collection.json &
+ 2001  htop
+ 2002  ls
+ 2003  ./load.sh
+ 2004  npm install
+ 2005  node 0v
+ 2006  node -v
+ 2007  docker build .
+ 2008  expect -f /tmp/deepin-terminal-MOQAG0
+ 2009  docker-compose up
+ 2010  expect -f /tmp/deepin-terminal-7L22F0
+ 2011  docker-compose up
+ 2012  docker-compose up --build
+ 2013  docker-compose up
+ 2014  docker exec -it 22238b7aef47d16b18cc4f42b16724abbecc92b896e6d44644642e054b174838 /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin/sh"
+ 2015  docker-compose up --build
+ 2016  docker-compose up --build
+ 2017  ./load.sh
+ 2018  docker-compose up
+ 2019  cd projetos/bolsa/node-ocr-server
+ 2020  docker-compose up
+ 2021  rename load.sh test.sh
+ 2022  ./test.sh
+ 2023  docker-compose up
+ 2024  edit test.sh
+ 2025  ./test.sh
+ 2026  docker-compose up
+ 2027  docker image list
+ 2028  where add-apt-repository-deepin
+ 2029  cat /sbin/add-apt-repository-deepin\n
+ 2030  chmod 775 build.sh
+ 2031  docker build -t node-ocr-server:latest .\n
+ 2032  docker push node-ocr-server:latest\n
+ 2033  docker login
+ 2034  docker push node-ocr-server:latest\n
+ 2035  docker build -t maxjf1/node-ocr-server:latest .\n
+ 2036  docker push node-ocr-server:latest\n
+ 2037  docker push maxjf1/node-ocr-server:latest\n
+ 2038  docker image ls
+ 2039  git status
+ 2040  git-adc "ADD docker and fix dependencies"
+ 2041  git push
+ 2042  cd projetos/bolsa/easytopic
+ 2043  git pull
+ 2044  cd projetos/wp/wp-base-theme
+ 2045  ls
+ 2046  docker-compose up
+ 2047  cd ../wp-content/plugins/shortberg
+ 2048  git init
+ 2049  git status
+ 2050  git remote add origin git@github.com:maxjf1/shortberg.git
+ 2051  git-adc "ADD base project"
+ 2052  git push -u origin master
+ 2053  cd projetos/wp/wp-base-theme
+ 2054  ls
+ 2055  edit docker-compose.yml
+ 2056  code docker-compose.yml
+ 2057  docker-compose up -d
+ 2058  sudo apt update
+ 2059  sudo apt upgrade
+ 2060  ls
+ 2061  cd projetos/wp/wordpress/wp-content/
+ 2062  ls plugins
+ 2063  git status
+ 2064  git-adc "ADD plugins dependencies"
+ 2065  git push
+ 2066  rm -rf .git
+ 2067  git init
+ 2068  git remote add origin git@github.com:app-masters/phormar-site.git
+ 2069  git pull
+ 2070  git pull -u origin master
+ 2071  git pull
+ 2072  git push
+ 2073  git push --set-upstream origin master
+ 2074  git pull
+ 2075  git pull origin master
+ 2076  git-adc "ADD base theme"
+ 2077  git push
+ 2078  docker container attach wp-base-theme_wp_1 -it
+ 2079  docker container attach wp-base-theme_wp_1
+ 2080  cd projetos/wp/wp-base-theme
+ 2081  docker-compose up -d
+ 2082  docker exec -it 4440a9275a9ccae3c827214edd75fbae5e0f19781b5cb438b96c24187bde59bb /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin/sh"
+ 2083  docker-compose stop
+ 2084  docker-compose up
+ 2085  docker exec -it 1132369f48dbc0ac9d279d851a2fd8dc1079f36e4b23f4c5cc54b578af6d0676 /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin/sh"
+ 2086  docker-compose down
+ 2087  docker-compose up
+ 2088  docker-compose down
+ 2089  docker-compose up -d
+ 2090  docker exec -it 8aaff283d172278d92b607a3b3231e6564f96a11fa403a79902fdb0651bef45a /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin/sh"
+ 2091  docker-compose stop
+ 2092  docker-compose up -d
+ 2093  docker exec -it 14bee5d66df0a53296fabdbaa3e9bc5fe6f5a7496a524830bee94ecd4819cf56 /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin/sh"
+ 2094  docker-compose down
+ 2095  docker-compose up -d
+ 2096  docker-compose down
+ 2097  docker-compose up -d
+ 2098  docker exec -it b5d9ff92d3f89558cc769ea5cd0887a7fea43eb349e5bdda5e6d764388785f05 /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin/sh"
+ 2099  docker cp wp-base-theme_wp_1:/usr/local/etc/php ./php
+ 2100  rm php
+ 2101  rm -rf php
+ 2102  docker cp wp-base-theme_wp_1:/usr/local/etc/php ./php
+ 2103  docker-compose stop
+ 2104  docker-compose up
+ 2105  docker-compose up -d
+ 2106  cd projetos/wp/wp-base-theme
+ 2107  code docker-compose.yml
+ 2108  docker-compose stop
+ 2109  docker-compose up -d
+ 2110  cd projetos/wp/wp-base-theme
+ 2111  sudo apt update
+ 2112  sudo apt upgrade
+ 2113  htop
+ 2114  sudo apt update
+ 2115  git status
+ 2116  git-adc "ADD homepage and base theme"
+ 2117  git push
+ 2118  tesseract --help
+ 2119  docker-compose up
+ 2120  npm run dev
+ 2121  cd projetos/bolsa/docker-kaldi-gstreamer-server
+ 2122  ls
+ 2123  git pull
+ 2124  git status
+ 2125  git diff
+ 2126  cd ..
+ 2127  cd easytopic
+ 2128  git pull
+ 2129  docker-compose up
+ 2130  cd projetos/bolsa
+ 2131  cd node-ocr-server  
+ 2132  npm run dev
+ 2133  docker-compose down
+ 2134  npm run dev
+ 2135  bluetooth
+ 2136  bluetoothctl
+ 2137  cd projetos/wp/wp-base-theme
+ 2138  chmod -R 777 wp-content
+ 2139  sudo chmod -R 777 wp-content
+ 2140  mv wp-content/plugins/advanced-custom-fields-pro _s/inc/acf/
+ 2141  mv _s/inc/acf/ wp-content/plugins/advanced-custom-fields-pro
+ 2142  cd projetos/bolsa/easytopic
+ 2143  docker-compose up
+ 2144  cd example
+ 2145  pip3 install -r requeriments.txt\n
+ 2146  ls
+ 2147  pip3 install -r requirements.txt\n
+ 2148  python3 segment.py
+ 2149  exit
+ 2150  cd example
+ 2151  ls requirements.txt
+ 2152  code .
+ 2153  code ..
+ 2154  cd projetos/wp/wp-base-theme/_s
+ 2155  code README.md
+ 2156  git status
+ 2157  git-adc "ADD home and base theme"
+ 2158  git push
+ 2159  cd projetos/wp/wp-base-theme/_s
+ 2160  git-adc "FIX issues, ADD pages"
+ 2161  git push
+ 2162  tp
+ 2163  docker-compose stop
+ 2164  docker-compose start
+ 2165  docker-compose start -d
+ 2166  docker-compose start
+ 2167  docker-compose stop
+ 2168  docker-compose start
+ 2169  docker-compose stop
+ 2170  docker-compose start
+ 2171  expect -f /tmp/deepin-terminal-X3YGG0
+ 2172  cd projetos/bolsa/easytopic/example
+ 2173  git pull
+ 2174  git branchg
+ 2175  git branch
+ 2176  python3 segment.py --server_ip 200.131.219.39
+ 2177  code .
+ 2178  python3 segment.py --server_ip 200.131.219.39
+ 2179  python3 segment.py --server_ip 200.131.219.3
+ 2180  python3 segment.py --server_ip 200.131.219.39
+ 2181  expect -f /tmp/deepin-terminal-QK86G0
+ 2182  cd projetos/bolsa/easytopic
+ 2183  git pull
+ 2184  git status
+ 2185  git checkout example/segment.py
+ 2186  git status
+ 2187  git pull
+ 2188  cd example/
+ 2189  ls
+ 2190  python3 segment.py --server_ip 200.131.219.39
+ 2191  open .
+ 2192  exit
+ 2193  sudo apt update
+ 2194  sudo apt upgrade
+ 2195  git-adc "ADD new views and content"
+ 2196  git push
+ 2197  docker-compose down
+ 2198  docker image pull wordpress:latest
+ 2199  docker image list
+ 2200  docker image pull wordpress
+ 2201  sudo docker image pull wordpress
+ 2202  docker-compose up -d
+ 2203  cd projetos/wp/wp-base-theme
+ 2204  docker-compose down
+ 2205  docker-compose up -d
+ 2206  cd projetos/bolsa/easytopic
+ 2207  git pull
+ 2208  docker-compose down
+ 2209  docker-compose up --build
+ 2210  pstree -a
+ 2211  cd projetos/bolsa/easytopic/example
+ 2212  pip3 install
+ 2213  pip3 install requirements.txt
+ 2214  pip3 install ./requirements.txt
+ 2215  pip3 install -r requirements.txt
+ 2216  python3 segment.py
+ 2217  exit
+ 2218  python3 segment.py
+ 2219  exit
+ 2220  python3 segment.py
+ 2221  docker container ls
+ 2222  cd projetos/bolsa/easytopic
+ 2223  docker container ls
+ 2224  docker container ls -l
+ 2225  docker system df 
+ 2226  docker image ls
+ 2227  cd projetos/wp/wp-base-theme
+ 2228  docker-compose stop
+ 2229  docker-compose start
+ 2230  edit-zsh
+ 2231  git status .oh-my-zsh
+ 2232  cat .zcompdump-DELL-NOTE-MAX-5.3.1
+ 2233  rm .zcompdump-DELL-NOTE-MAX-5.3.1
+ 2234  edit-bash
+ 2235  edit-zsh
+ 2236  edit-bash
+ 2237  cd projetos/wp/wp-base-theme/wp-content/plugins/
+ 2238  çs
+ 2239  ls
+ 2240  git clone git@github.com:maxjf1/acf-google-places.git
+ 2241  google-chrome --use-fake-device-for-media-stream --use-file-for-fake-video-capture=/home/maxjf1/Videos/dde-introduction.mp4 
+ 2242  google-chrome --use-fake-device-for-media-stream --use-file-for-fake-video-capture=~/Downloads/claire_qcif-5.994Hz.y4m
+ 2243  google-chrome --use-fake-device-for-media-stream --use-file-for-fake-video-capture=/home/maxjf1/Downloads/claire_qcif-5.994Hz.y4m
+ 2244  google-chrome --use-fake-device-for-media-stream
+ 2245  google-chrome --use-fake-device-for-media-stream --use-file-for-fake-video-capture=/home/maxjf1/Downloads/claire_qcif-5.994Hz.y4m
+ 2246  google-chrome --use-fake-device-for-media-stream
+ 2247  cd ../wp-content/plugins/acf-google-places
+ 2248  git status
+ 2249  git remote
+ 2250  git remote origin
+ 2251  git status
+ 2252  cat .git/config
+ 2253  git status
+ 2254  git add -A
+ 2255  git-adc "ADD base plugin support, FIX country restriction"
+ 2256  git push
+ 2257  docker container attach wp-base-theme_wp_1
+ 2258  cd projetos/wp/wp-base-theme
+ 2259  docker-compose up 
+ 2260  edit docker-compose.yml
+ 2261  docker image push wordpress:latest
+ 2262  sudo docker image push wordpress:latest
+ 2263  docker login
+ 2264  docker image ls
+ 2265  docker image rm 13d616ef11e1 760ef96eae32 dc1d22f61567  2e18592761af 4efeece9942c 3cdc90aa3d77 0777934f221a 57dc691d074d 53be514b09be 34c45906a8d1 88f02d3fb8c4 e62d54ff9983 0782c22e3eb9 b1b8c6ebceeb 1eb053e5b8cd cbf9e0df72e3 b43b0872d2cc
+ 2266  docker image ls
+ 2267  docker rm b707c2244b7d b43b0872d2cc 8627e3b42d85 9aff42f84fe4 52a261fa5e4b
+ 2268  docker image rm b707c2244b7d b43b0872d2cc 8627e3b42d85 9aff42f84fe4 52a261fa5e4b
+ 2269  docker image ls
+ 2270  docker image rm 14dacdac3ef6
+ 2271  docker image rm 2284aafe19b3
+ 2272  docker image rm 8469ddc4184d cee24f25d77d 7a1bf68acc3f ca4be5478390 1bf43855c4ff 748480edd039 6f8140b0b23c 7910f2788a25 
+ 2273  docker image ls
+ 2274  docker image rm 6f8140b0b23c
+ 2275  docker image rm -rf 6f8140b0b23c
+ 2276  docker image rm -f 6f8140b0b23c
+ 2277  docker container ls
+ 2278  docker image ls
+ 2279  docker image prune
+ 2280  docker image rm 07e774543bdf
+ 2281  docker image rm f22c701e3165 f22c701e3165 ad5bd867162f ad5bd867162f
+ 2282  docker image rm f22c701e3165 f22c701e3165 ad5bd867162f ad5bd867162f -r
+ 2283  docker image rm f22c701e3165 f22c701e3165 ad5bd867162f ad5bd867162f 
+ 2284  docker image rm --help
+ 2285  docker image rm -f f22c701e3165 f22c701e3165 ad5bd867162f ad5bd867162f 
+ 2286  docker image ls
+ 2287  docker image pull wordpress:latest
+ 2288  cd projetos/wp/wp-base-theme
+ 2289  docker-compose up --build -d
+ 2290  docker container li
+ 2291  docker container ls
+ 2292  docker network ls
+ 2293  cd projetos/wp/wp-base-theme
+ 2294  code docker-compose.yml
+ 2295  docker-compose down
+ 2296  docker-compose up
+ 2297  docker-compose up -d
+ 2298  git-adc "ADD filter and pages"
+ 2299  git push
+ 2300  sudo apt update
+ 2301  sudo apt upgrade
+ 2302  docker exec -it f327d033962de185461c289cb62166a146f4e98182e3a21dad3b5966874ae76d /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin/sh"
+ 2303  cd projetos/wp/wp-base-theme
+ 2304  docker-compose stop
+ 2305  docker-compose stopstart -d
+ 2306  docker-compose start -d
+ 2307  docker-compose start
+ 2308  cd projetos/wp/wp-base-theme
+ 2309  docker-compose stop
+ 2310  docker-compose start 
+ 2311  git status
+ 2312  cd ..
+ 2313  cd 
+ 2314  git status
+ 2315  git-adc "UPDATE templates, ADD new screens"
+ 2316  git push
+ 2317  git-adc "ADD custom content"
+ 2318  git push
+ 2319  docker pull docker pull sqlpad/sqlpad
+ 2320  docker pull sqlpad/sqlpad
+ 2321  docker run -it sqlpad/sqlpad:latest
+ 2322  docker run -it -p 3000:3000 sqlpad/sqlpad:latest
+ 2323  docker exec -it f327d033962de185461c289cb62166a146f4e98182e3a21dad3b5966874ae76d /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin/sh"
+ 2324  cat wordpress-migrate-20200328003949.sql | docker exec -i wp-base-theme_db_1 /usr/bin/mysql -u root --password=root wordpress
+ 2325  cd wp/wp-base-theme
+ 2326  docker-compose down
+ 2327  rm -rf database/*
+ 2328  ls
+ 2329  docker-compose up
+ 2330  cat wordpress-migrate-20200328003949.sql | docker exec -i wp-base-theme_db_1 /usr/bin/mysql -u root --password=root wordpress
+ 2331  docker-compose up
+ 2332  git-adc "FIX bugs"
+ 2333  git push
+ 2334  docker-compose up -d
+ 2335  sudo apt-get install kdenlive\n\n
+ 2336  cd projetos/appmasters
+ 2337  ls
+ 2338  cd ..
+ 2339  cd appmasters/comp4all
+ 2340  git status
+ 2341  cd ..
+ 2342  cd service-finder
+ 2343  git status
+ 2344  cd ..
+ 2345  rm -rf appmasters
+ 2346  sudo rm -rf appmasters
+ 2347  ls
+ 2348  cd wp
+ 2349  ls
+ 2350  cd wp-base-theme/_s
+ 2351  git status
+ 2352  cd ..
+ 2353  ls
+ 2354  sudo rm -rf academy events-manager republica zero40
+ 2355  cd ..
+ 2356  ls
+ 2357  cd react
+ 2358  ls
+ 2359  sudo apt install breeze-icon-theme 
+ 2360  add-apt-repository-deepin
+ 2361  cat add-apt-repository-deepin
+ 2362  wich  add-apt-repository-deepin
+ 2363  where
+ 2364  where add-apt-repository-deepin
+ 2365  cat /sbin/add-apt-repository-deepin
+ 2366  sudo add-apt-repository ppa:openshot.developers/ppa
+ 2367  sudo apt update
+ 2368  sudo add-apt-repository -r ppa:openshot.developers/ppa
+ 2369  sudo apt update
+ 2370  edit-bash
+ 2371  rm -rf gurobi
+ 2372  yarn
+ 2373  rm yarn.lock
+ 2374  sudo apt remove yarn
+ 2375  sudo edit /etc/apt/sources.list.d/yarn.list
+ 2376  edit-bash
+ 2377  edit-apt
+ 2378  goto-apt
+ 2379  ls
+ 2380  cat yarn.list
+ 2381  cat yarn.list.save
+ 2382  rm yarn.list yarn.list.save
+ 2383  sudo rm yarn.list yarn.list.save
+ 2384  sudo apt update
+ 2385  curl https://cli-assets.heroku.com/install-ubuntu.sh | sh
+ 2386  sudo apt update
+ 2387  sudo apt upgrade
+ 2388  cd ~/Downloads
+ 2389  chmod u+x OpenShot-v2.5.1-x86_64.AppImage
+ 2390  ./OpenShot-v2.5.1-x86_64.AppImage
+ 2391  cd projetos/wp/wp-base-theme
+ 2392  docker-compose stop
+ 2393  docker container list
+ 2394  npm i amqplib
+ 2395  cd ..
+ 2396  cd node-ocr-server
+ 2397  npm i amqplib
+ 2398  code .
+ 2399  docker-compose up
+ 2400  rm -rf volumes
+ 2401  sudo rm -rf volumes
+ 2402  ls -l volumes
+ 2403  sudo rm -rf volumes
+ 2404  docker-compose up
+ 2405  sudo rm -rf volumes
+ 2406  docker-compose up
+ 2407  npm run dev
+ 2408  ifconfig
+ 2409  exit
+ 2410  snap
+ 2411  sudo apt install gradio
+ 2412  edit-apt
+ 2413  sudo add-apt-repository
+ 2414  sudo add-apt-repository ppa:haecker-felix/gradio-daily
+ 2415  $ sudo add-apt-repository ppa:haecker-felix/gradio-daily\n
+ 2416  run 
+ 2417  run echo 42
+ 2418  exec echo 42
+ 2419  exec
+ 2420  exec echo 42
+ 2421  bash echo 42
+ 2422  flatpak
+ 2423  flatpak install https://flathub.org/repo/appstream/de.haeckerfelix.Shortwave.flatpakref\n
+ 2424  flatpak -h
+ 2425  flatpak run
+ 2426  flatpak run shortwave
+ 2427  flatpak list
+ 2428  flatpak run de.haeckerfelix.Shortwave
+ 2429  sudo flatpak run de.haeckerfelix.Shortwave
+ 2430  flatpak update
+ 2431  flatpak list
+ 2432  flatpak run de.haeckerfelix.Shortwave
+ 2433  RUST_BACKTRACE=1
+ 2434  flatpak run de.haeckerfelix.Shortwave
+ 2435  echo RUST_BACKTRACE
+ 2436  $RUST_BACKTRACE=1
+ 2437  env RUST_BACKTRACE=1
+ 2438  export RUST_BACKTRACE=1
+ 2439  echo RUST_BACKTRACE
+ 2440  echo $RUST_BACKTRACE
+ 2441  flatpak run de.haeckerfelix.Shortwave
+ 2442  export RUST_BACKTRACE=full
+ 2443  echo $RUST_BACKTRACE
+ 2444  flatpak run de.haeckerfelix.Shortwave
+ 2445  flatpak install flathub de.haeckerfelix.gradio\n
+ 2446  flatpak install flathub de.haeckerfelix.gradio -y\n
+ 2447  flatpak install flathub de.haeckerfelix.gradio \n
+ 2448  flatpak install flathub de.haeckerfelix.gradio -y\n
+ 2449  flatpak list
+ 2450  flatpak run de.haeckerfelix.Shortwave
+ 2451  sysinfo
+ 2452  edit-bash
+ 2453  sudo apt install screenfetch
+ 2454  screenfetch
+ 2455  edit-bash
+ 2456  sysinfo
+ 2457  flatpak remove 
+ 2458  flatpak uninstall de.haeckerfelix.Shortwave
+ 2459  flatpak install flathub de.haeckerfelix.Shortwave
+ 2460  flatpak run de.haeckerfelix.Shortwave
+ 2461  snap
+ 2462  sudo apt update
+ 2463  sudo apt install snapd
+ 2464  sudo snap install snap-store
+ 2465  sudo snap install core
+ 2466  npm install
+ 2467  npm uninstall
+ 2468  sudo snap install core
+ 2469  npm uninstall cors 
+ 2470  npm uninstall express express-file-upload
+ 2471  npm audit
+ 2472  npm audit fix
+ 2473  npm audit
+ 2474  sudo snap install odio
+ 2475  npm update
+ 2476  odio
+ 2477  snap run
+ 2478  snap run odio
+ 2479  sudo snap install snap-store
+ 2480  npm auditr
+ 2481  npm audit
+ 2482  npm update eslint
+ 2483  npm install --save-dev eslint
+ 2484  npm audit fix
+ 2485  \tgit status
+ 2486  sudo snap install snap-store
+ 2487  sudo apt update
+ 2488  sudo apt install kodi
+ 2489  cd projetos/bolsa
+ 2490  ls
+ 2491  cd easytopic
+ 2492  git remot
+ 2493  git remote
+ 2494  git remote origin
+ 2495  git remote list
+ 2496  git remote get-url origin
+ 2497  git status
+ 2498  git stash
+ 2499  git pull
+ 2500  code .
+ 2501  cd ..
+ 2502  mv easytopic/volumes ./volumes
+ 2503  rm -rf easytopic
+ 2504  git clone git@github.com:maxjf1/easytopic.git
+ 2505  edit-zsh
+ 2506  git remote
+ 2507  cd easytopic
+ 2508  git remote -v
+ 2509  git remote add upstream git@github.com:eduardorochasoares/easytopic.git
+ 2510  git fetch upstream
+ 2511  git branch]
+ 2512  git branch
+ 2513  git merge upstream/master
+ 2514  move ../volumes ./volumes
+ 2515  mv ../volumes ./volumes
+ 2516  edit-bash
+ 2517  git push
+ 2518  mv ../node-ocr-server ./node-ocr-server
+ 2519  git status
+ 2520  code .
+ 2521  git add .gitignore 
+ 2522  git commit
+ 2523  git push
+ 2524  git status
+ 2525  git add node-ocr-server/
+ 2526  git status
+ 2527  git stash
+ 2528  git status
+ 2529  git stash
+ 2530  git status
+ 2531  git commit 
+ 2532  snap
+ 2533  snap remove
+ 2534  snap list
+ 2535  snap remove shortwave
+ 2536  sudo snap remove shortwave
+ 2537  sudo snap list
+ 2538  gsettings
+ 2539  ls
+ 2540  cd projetos/bolsa/easytopic/node-ocr-server
+ 2541  code .
+ 2542  npm 
+ 2543  npm i
+ 2544  npm u
+ 2545  npm uninstall -S express express-fileupload cors body-parser 
+ 2546  npm install
+ 2547  npm i amqplib
+ 2548  code ./
+ 2549  code ../
+ 2550  cd ..
+ 2551  cd node-ocr-server
+ 2552  docker-compose up
+ 2553  sudo docker-compose up
+ 2554  docker-compose up
+ 2555  cd ..
+ 2556  docker-compose up
+ 2557  cd node-ocr-server
+ 2558  docker-compose up
+ 2559  docker image list
+ 2560  docker run -it rabbitmq
+ 2561  docker run -it rabbitmq:3-management
+ 2562  docker-compose down
+ 2563  docker-compose up
+ 2564  sysinfo
+ 2565  docker-compose up
+ 2566  docker-compose down
+ 2567  docker-compose up
+ 2568  cd projetos/bolsa/easytopic/node-ocr-server
+ 2569  docker-compose up
+ 2570  cd projetos/bolsa/easytopic/node-ocr-server
+ 2571  docker-compose up
+ 2572  cd projetos/bolsa/easytopic/node-ocr-server
+ 2573  docker-compose up
+ 2574  sysinfo
+ 2575  cd projetos/wp
+ 2576  ls
+ 2577  ls ṕhormar
+ 2578  ls phormar
+ 2579  rm -rf phormar
+ 2580  ls wp-base-theme
+ 2581  rename wp-base-theme phormar
+ 2582  mkdir new-project
+ 2583  cp phormar/docker-compose.yml new-project/docker-compose.yml
+ 2584  ls phormar
+ 2585  cp phormar/php new-project/pho
+ 2586  cp -r phormar/php new-project/pho
+ 2587  ls phormar
+ 2588  rename new-project base
+ 2589  cd base
+ 2590  git clone git@github.com:maxjf1/wordpress-base-theme.git wp-base-theme
+ 2591  phpstorm wp-base-theme
+ 2592  run
+ 2593  run phpstorm wp-base-theme
+ 2594  ls wp-base-theme
+ 2595  ls
+ 2596  cd wp-base-theme
+ 2597  git pull
+ 2598  git remote
+ 2599  git remote add upstream git@github.com:Automattic/_s.git
+ 2600  git fetch upstream
+ 2601  git status
+ 2602  git-adc "clean"
+ 2603  git merge upstream/master
+ 2604  git commit
+ 2605  cd ..
+ 2606  cd wordpress
+ 2607  git pull
+ 2608  git status
+ 2609  git-adc "ADD instructions"
+ 2610  git-adc "FIX plugins"
+ 2611  git push
+ 2612  cd ..
+ 2613  edit docker-compose.yml
+ 2614  docker-compose up
+ 2615  cd ..
+ 2616  cd phormar
+ 2617  ls
+ 2618  cd ..
+ 2619  cd phormar
+ 2620  docker-compose down
+ 2621  cd ..
+ 2622  cd base
+ 2623  docker-compose up
+ 2624  aa-complain
+ 2625  code docker-compose.yml
+ 2626  docker-compose up
+ 2627  docker-compose down
+ 2628  sudo apt update
+ 2629  sudo apt upgrade
+ 2630  sudo apt upgrade code
+ 2631  sudo apt install code
+ 2632  sudo apt-get install \\n    apt-transport-https \\n    ca-certificates \\n    curl \\n    gnupg-agent \\n    software-properties-common
+ 2633  sudo apt-get remove docker docker-engine docker.io containerd runc
+ 2634  sudo apt-key fingerprint 0EBFCD88
+ 2635  sudo add-apt-repository \\n   "deb [arch=amd64] https://download.docker.com/linux/debian \\n   $(lsb_release -cs) \\n   stable"
+ 2636  lsb_release -cs
+ 2637  lsb_release
+ 2638  lsb_release -cs
+ 2639  docker
+ 2640  sudo apt-get remove docker docker-engine docker.io containerd runc
+ 2641  sudo apt autoremove
+ 2642  sudo apt-get remove docker docker-engine docker.io containerd runc
+ 2643  docker
+ 2644  sudo apt remove docker
+ 2645  where docker
+ 2646  sudo apt list
+ 2647  kdocker
+ 2648  sudo apt remove docker
+ 2649  sudo apt update
+ 2650  sudo add-apt-repository -r \\n   "deb [arch=amd64] https://download.docker.com/linux/debian \\n   $(lsb_release -cs) \\n   stable"
+ 2651  sudo apt update
+ 2652  sudo add-apt-repository \\n   "deb [arch=amd64] https://download.docker.com/linux/debian \\n   buster \\n   stable"
+ 2653  sudo apt update
+ 2654  sudo apt upgrade
+ 2655  sudo apt remove docker-ce docker-ce-cli
+ 2656  docker
+ 2657  sudo apt-get remove docker docker-engine docker.io containerd runc
+ 2658  apt-get update
+ 2659  sudo apt-get update
+ 2660  sudo apt-get install \\n    apt-transport-https \\n    ca-certificates \\n    curl \\n    gnupg-agent \\n    software-properties-common
+ 2661  sudo add-apt-repository \\n   "deb [arch=amd64] https://download.docker.com/linux/debian \\n   buster \\n   stable"
+ 2662  sudo apt-get update
+ 2663  sudo apt remove containerd.io
+ 2664  sudo apt autoremove
+ 2665  sudo apt-get install docker-ce docker-ce-cli containerd.io
+ 2666  sudo docker run hello-world
+ 2667  sudo apt-get purge docker-ce docker-ce-cli containerd.io
+ 2668  sudo rm -rf /var/lib/docker
+ 2669  sudo apt-get install docker-ce docker-ce-cli containerd.io
+ 2670  sudo docker run hello-world
+ 2671  sudo usermod -aG docker $USER
+ 2672  newgrp docker 
+ 2673  docker run hello-world
+ 2674  docker-compose -v
+ 2675  cd projetos/bolsa/easytopic/node-ocr-server
+ 2676  cat docker-compose.yml
+ 2677  docker-compose up
+ 2678  cd ..
+ 2679  cd wp/base
+ 2680  code docker-compose.yml
+ 2681  docker-compose uṕ
+ 2682  docker-compose up
+ 2683  systemctl daemon-reload\n
+ 2684  service docker restart\n
+ 2685  docker-compose up
+ 2686  sudo edit /lib/systemd/system/docker.service
+ 2687  sudo nano /lib/systemd/system/docker.service
+ 2688  sudo systemctl daemon-reload\n
+ 2689  sudo service docker restart\n
+ 2690  docker-compose up
+ 2691  sudo nano /lib/systemd/system/docker.socket
+ 2692  sudo nano /lib/systemd/system/docker.service
+ 2693  docker
+ 2694  dockerd
+ 2695  sudo dockerd
+ 2696  edit docker-compose.yml
+ 2697  docker-compose up
+ 2698  edit docker-compose.yml
+ 2699  docker-compose up
+ 2700  edit docker-compose.yml
+ 2701  cd ..
+ 2702  cd bolsa/easytopic/node-ocr-server
+ 2703  docker-compose up
+ 2704  cat docker-compose.yml
+ 2705  edit docker-compose.yml
+ 2706  docker-compose up
+ 2707  docker run mysql:5.7 
+ 2708  docker run rabbitmq:3-management
+ 2709  sudo update-alternatives --config iptables\n
+ 2710  history

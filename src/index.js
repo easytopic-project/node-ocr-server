@@ -1,11 +1,7 @@
 #!/usr/bin/env node
 import express from 'express';
-import cors from 'cors'
-import bodyParser from 'body-parser'
-import { PORT } from './env';
+import { QUEUE_SERVER, QUEUE_NAME as q } from './env';
 import tesseract from 'node-tesseract-ocr'
-import fileUpload from 'express-fileupload'
-
 
 const config = {
     lang: "eng",
@@ -13,27 +9,8 @@ const config = {
     psm: 3,
 }
 
-const uploadMiddleware = fileUpload({
-    useTempFiles: true,
-    tempFileDir: '/tmp/ocr/'
-})
-
 const app = express()
 
-app.disable('x-powered-by')
-app.use(cors())
-app.use(bodyParser.json())
-
-app.all('/', (req, res) => res.send('API ROOT'))
-
-app.get(['/example/:id', '/example'], ({ params: { id = 1 } }, res) => {
-    tesseract.recognize(`example/example-${id}.jpg`, config)
-        .then(text => res.send(`<img style="float:right;width: 50vw" src="/example-${id}.jpg"/><pre>${text}</pre>`))
-        .catch(error => {
-            console.error(error)
-            res.status(500).send(error.message)
-        })
-})
 
 app.post('/ocr', uploadMiddleware, (req, res) => {
     console.log(req.files)
@@ -45,10 +22,19 @@ app.post('/ocr', uploadMiddleware, (req, res) => {
         })
 })
 
-app.use('/', express.static('example'))
+amqp.connect(`amqp://${QUEUE_SERVER}`, (err, conn) =>  {
+    if(err) console.error(err)
+    
+    conn.createChannel( (err, ch) => {
+        if(err) console.error(err)
 
-app.all('*', (req, res) => res.sendStatus(404))
+        ch.assertQueue(q, { durable: false })
+        ch.prefetch(1)
 
-app.listen(PORT, () => console.log(`Servidor inciado na porta ${PORT} ( http://localhost:${PORT}/ )`))
-
-export default app
+        console.log(`Waiting for messages in '${q}'. To exit press CTRL+C`);
+        ch.consume(q, msg => {
+            console.log(msg.content.toString());
+        }, 
+        { noAck: true });
+    });
+});
