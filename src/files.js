@@ -1,7 +1,8 @@
 const util = require('util')
-import { createWriteStream } from "fs"
+import fs, { createWriteStream } from "fs"
 import fetch from "node-fetch"
-const streamPipeline = util.promisify(require('stream').pipeline)
+const streamPipeline = util.promisify(require('stream').pipeline),
+    unlink = util.promisify(fs.unlink)
 
 
 /**
@@ -22,4 +23,9 @@ export async function downloadFile(url, folder = '', file = null) {
     if (!res.ok) throw new Error(`unexpected response ${res.statusText}`);
     await streamPipeline(res.body, createWriteStream(`${folder}/${file}`));
     return `${folder}/${file}`
+}
+
+
+export async function deleteFile(file) {
+    await unlink(file)
 }
