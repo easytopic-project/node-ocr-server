@@ -27,16 +27,17 @@ async function main() {
     console.log(`Waiting for messages in '${qIn}'. Output will be sended to '${qOut}'. To exit press CTRL+C`);
     ch.consume(qIn, async msg => {
         console.log(`Received file`);
-        
-        const { file } = JSON.parse(msg.content.toString()), url = `http://${FILES_SERVER}/files/${file.name}`
+
+        const args = JSON.parse(msg.content.toString());
+        const { file } = args, url = `http://${FILES_SERVER}/files/${file.name}`
         const f = await downloadFile(url, FILES_PATH)
         console.log(`file downloaded at ${f}`);
-        
+
 
         // Star the OCR parser
         const text = await tesseract.recognize(f, config)
         ch.sendToQueue(qOut, Buffer.from(JSON.stringify({
-            file,
+            ...args,
             ocr: text
         })), { persistent: true })
         ch.ack(msg)
