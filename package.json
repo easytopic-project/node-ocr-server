@@ -9,7 +9,7 @@
   "license": "ISC",
   "scripts": {
     "build": "babel src -d dist",
-    "dev": "export FILES_PATH=\"$PWD/temp/files\" && nodemon --exec babel-node src/index.js",
+    "dev": "export FILES_PATH=\"$PWD/temp\" && nodemon --exec babel-node src/index.js",
     "start": "node dist/index.js",
     "lint": "eslint .",
     "prettier": "prettier-check \"src/**/*.js\"",

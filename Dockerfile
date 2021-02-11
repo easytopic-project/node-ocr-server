@@ -18,7 +18,8 @@ COPY --from=dist /dist/package*.json ./
 COPY --from=dist /dist ./
 
 RUN apk add tesseract-ocr && \
-    npm install --production
+    npm install --production && \
+    mkdir /temp
 
 EXPOSE 3000
 
