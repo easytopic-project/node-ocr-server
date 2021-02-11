@@ -46,7 +46,7 @@ async function main() {
         console.log(`Received file`);
 
         const args = JSON.parse(msg.content.toString());
-        const { file } = args, url = `http://${FILES_SERVER}/files/${file.name}`
+        const { file } = args, url = file.name ? `http://${FILES_SERVER}/files/${file.name}` : file
         const f = await downloadFile(url, FILES_PATH)
         console.log(`file downloaded at ${f}`);
 
@@ -58,7 +58,7 @@ async function main() {
             ocr: text
         })), { persistent: true })
         ch.ack(msg)
-        console.log(`OCR results of ${file.name} sent.`);
+        console.log(`OCR results of ${file.name || 'file'} sent.`);
         deleteFile(f)
     });
 }
