@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "amqplib": "^0.5.5",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "node-tesseract-ocr": "^1.0.0"
   },
   "main": "./dist/index.js",
